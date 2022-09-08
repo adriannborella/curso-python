@@ -1,3 +1,5 @@
+
+
 class Encuesta():
     ANYO = 0
     NOM_PROV = ""
@@ -17,11 +19,13 @@ class Encuesta():
         self.NUM_FALLECIDOS = int(linea[-1][:-1])  # '1\n'
         self.NUM_FALLECIDOS = int(linea[-1][:-1])  # '1\n'
 
-    def __str__(self):       
-        return ";".join([str(self.ANYO), self.NOM_PROV,
-                         self.NOM_MUN, self.DESC_CAUSA,
-                         self.DESC_GENERO, self.RANGO_EDAD,
-                         str(self.NUM_FALLECIDOS)])        
+    def __str__(self):
+        return ";".join([str(self.ANYO), self.NOM_PROV, self.NOM_MUN,
+                         self.DESC_CAUSA, self.DESC_GENERO, self.RANGO_EDAD,
+                         str(self.NUM_FALLECIDOS)])
+        return f"str(self.ANYO), self.NOM_PROV, self.NOM_MUN,self.DESC_CAUSA,\
+self.DESC_GENERO, self.RANGO_EDAD,str(self.NUM_FALLECIDOS"
+
 
 datos = open("datos.csv", encoding='UTF-8')
 datos.readline()

@@ -1,5 +1,4 @@
-
-datos = open("datos.csv", encoding='UTF-8')
+datos = open("Z:\\03\\datos.csv", encoding='UTF-8')
 
 # Forma utilizando FOR
 for linea in datos.readlines():

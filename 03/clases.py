@@ -30,3 +30,23 @@ class Encuesta():
                          self.NOM_MUN, self.DESC_CAUSA,
                          self.DESC_GENERO, self.RANGO_EDAD,
                          str(self.NUM_FALLECIDOS)])
+
+
+class clase1():
+    pass
+
+
+class clase2():
+    pass
+
+
+class clase3():
+    pass
+
+
+class clase4():
+    pass
+
+
+class clase5():
+    pass
