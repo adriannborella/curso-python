@@ -1,0 +1,78 @@
+# integer: 123
+# float: 123.123
+# exponential_float: 1.34e+3
+# not_a_number: .NAN
+# infinity: .inf
+# negative_infinity: -.inf
+
+# string: Hi, there I am a string
+# string with escape character: Hi, I am a newline \n character. And I am not working :(
+# string with working escape character: "Hi, I am a newline \n character. And I am working :)"
+
+# multiple lines string with fold character: >
+#   This is a
+#   multiple line
+#   string with fold
+#   character. Remember to use
+#   indentation. Newlines won't be
+#   interpreted.
+# multiple lines string with block character: |
+#   This is a
+#   multiple line
+#   string with fold
+#   character. Remember to use
+#   indentation. Newlines will be
+#   interpreted.
+
+# random_key_1: True
+# random_key_2: On
+# random_key_3: Yes
+# random_key_4: False
+# random_key_5: Off
+# random_key_6: No
+
+# null_case_1: null
+# null_case_2: ~
+
+# programming_languages:
+#   - Python
+#   - JavaScript
+#   - C
+#   - HTML
+#   - CSS
+# libraries:
+#   - React
+#   - TailwindCSS
+
+programming_languages:
+  - Python:
+    - programming_languages
+    - Python
+    - JavaScript
+    - C    
+  - JavaScript
+  - C
+  - HTML
+  - CSS
+libraries:
+  - React
+  - TailwindCSS
+
+# programming_languages:
+#   - Python:
+#       author: Guido van Rossum
+#   - JavaScript:
+#       author: Brendan Eich
+#   - C:
+#       author: Dennis Ritchie
+# libraries:
+#   - React:
+#     popularity: High
+#   - TailwindCSS:
+#     popularity: High
+
+# # duplicate_data is the name of the anchor
+# data: &duplicate_data This content is to duplicate
+
+# dopying the data
+# duplicate_data: *duplicate_data

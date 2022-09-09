@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "juan",
+        "edad": 30,
+        "activo": false,
+        "fecha_nacimiento": "01/01/1980"
+    },
+    {
+        "nombre": "pedro",
+        "edad": 35,
+        "activo": true,
+        "fecha_nacimiento": "01/05/1985"
+    },
+    {
+        "nombre": "Maria",
+        "edad": 20,
+        "activo": true,
+        "fecha_nacimiento": "01/01/1995"
+    }
+]

@@ -1,0 +1,6 @@
+tipo: "postgres"
+host: "162.243.174.228"
+port: 8610
+user: "educando"
+pass: "python2022"
+dbname: "db_develop"
