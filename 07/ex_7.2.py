@@ -13,21 +13,8 @@ print(db_string)
 db = create_engine(db_string)
 meta = MetaData(db)
 
-my_table = Table(
-                'adrian-nicolas', meta,
-                Column('nombre', String),
-                Column('edad', Integer),
-                Column('activo', Boolean),
-                Column('fecha_naciento', Date))
+my_table = Table('adrian-nicolas', meta, Column('nombre', String),
+                 Column('edad', Integer), Column('activo', Boolean),
+                 Column('fecha_naciento', Date))
 
 my_table.create()
-
-
-
-
-with open("z:\\07\\datos.json") as file:
-    datos = json.load(file)
-    import ipdb; ipdb.set_trace()
-    for record in datos:
-        pass
-
