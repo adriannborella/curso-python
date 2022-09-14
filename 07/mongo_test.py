@@ -10,10 +10,11 @@ client = pymongo.MongoClient(
 
 print("Bases de datos disponibles:", client.list_database_names())
 
+ipdb.set_trace()
 db = client.test
 print("Colecciones disponibles:", db.list_collection_names())
 
-mycol = db.my_collection
+mycol = db.other_collection
 
 mydict = {"name": "John", "address": "Highway 37"}
 # mydict = {"name": "Adrian", "address": "ROsario 123"}
@@ -33,6 +34,8 @@ for x in mycol.find({}, {"_id": 0, "name": 1, "address": 1}):
 
 for x in mycol.find({}, {"address": 0}):
     print(x)
+
+ipdb.set_trace()
 
 myquery = {"address": "Calle 345"}
 mydoc = mycol.find(myquery)

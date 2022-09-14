@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "juan",
+    "edad": 23,
+    "activo": false,
+    "apellido": "Gonzales",
+    "direccion": "Dirección falsa",
+    "fecha_nacimiento": "01/01/1980"
+  },
+  {
+    "nombre": "Jose",
+    "edad": 36,
+    "apellido": "Pereyra",
+    "activo": true,
+    "fecha_nacimiento": "04/01/1987",
+    "direccion": "Salas 123"
+  },
+  {
+    "nombre": "Roberto",
+    "edad": 30,
+    "apellido": "Borella",
+    "activo": true,
+    "fecha_nacimiento": "01/05/1988",
+    "direccion": "Mexico 450"
+  }
+]

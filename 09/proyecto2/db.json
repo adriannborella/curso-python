@@ -1,0 +1,50 @@
+[
+  {
+    "model": "personas.persona",
+    "pk": 1,
+    "fields": {
+      "nombre": "Adrian",
+      "edad": 33,
+      "apellido": "Borella",
+      "activo": true,
+      "fecha_nacimiento": "1988-10-28",
+      "direccion": null
+    }
+  },
+  {
+    "model": "personas.persona",
+    "pk": 2,
+    "fields": {
+      "nombre": "Roberto",
+      "edad": 36,
+      "apellido": "Pereyra",
+      "activo": true,
+      "fecha_nacimiento": "2022-09-09",
+      "direccion": "Dirección"
+    }
+  },
+  {
+    "model": "personas.persona",
+    "pk": 3,
+    "fields": {
+      "nombre": "Roberto",
+      "edad": 36,
+      "apellido": "Pereyra",
+      "activo": true,
+      "fecha_nacimiento": "2022-09-09",
+      "direccion": "Dirección"
+    }
+  },
+  {
+    "model": "personas.persona",
+    "pk": 4,
+    "fields": {
+      "nombre": "Roberto",
+      "edad": 36,
+      "apellido": "Pereyra",
+      "activo": true,
+      "fecha_nacimiento": "2022-09-09",
+      "direccion": "Dirección"
+    }
+  }
+]

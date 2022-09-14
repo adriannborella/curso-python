@@ -12,6 +12,11 @@ print(db_string)
 db = create_engine(db_string)
 meta = MetaData(db)
 
+
 my_table = Table('adrian-nicolas', meta, Column('nombre', String),
                  Column('edad', Integer), Column('activo', Boolean),
-                 Column('fecha_naciento', Date))
+                 Column('fecha_nacimiento', Date))
+
+def ejecutar_sentencia(sentencia):
+    conn = db.connect()
+    conn.execute(sentencia)

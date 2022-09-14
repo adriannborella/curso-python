@@ -32,3 +32,7 @@ def palindromo(sentence: str) -> bool:
     """
     sentence = sentence.lower().replace(' ', '')
     return sentence == sentence[::-1]
+
+
+# help(palindromo)
+help(User)

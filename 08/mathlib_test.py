@@ -3,8 +3,9 @@ import mathlib
 
 def test_suma():
     """Verify the output of `suma` function"""
-    output = mathlib.suma(2, 4)
-    assert output == 6
+    esperado = 6
+    obtenido = mathlib.suma(2, 4)
+    assert esperado == obtenido
 
 
 def test_resta():

@@ -20,9 +20,9 @@ def palindromo(sentencia):
     return sentencia == sentencia[::-1]
 
 
-import ipdb
+# import ipdb
 
-ipdb.set_trace()
+# ipdb.set_trace()
 
-print(palindromo.__doc__)
+# print(palindromo.__doc__)
 help(palindromo)
