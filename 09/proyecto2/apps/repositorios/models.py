@@ -19,3 +19,15 @@ class RepositorioGithub(models.Model):
 
     def __str__(self) -> str:
         return self.full_name
+
+
+class RepositorioPython(models.Model):
+    name = models.fields.CharField("Name", max_length=100)
+    version = models.fields.CharField("Description", max_length=8)
+
+    class Meta:
+        verbose_name = 'Pypi'
+        verbose_name_plural = 'Repositorio_pythons'
+
+    def __str__(self) -> str:
+        return self.name

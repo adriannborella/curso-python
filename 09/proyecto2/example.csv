@@ -1,0 +1,877 @@
+id;repo_name;full_name;created;language;username;stars;forks;subscribers;open_issues;days_alive
+1753;tensorflow;tensorflow/tensorflow;2015-11-07 01:19:20;C++;tensorflow;163249;86432;7902;2635;2505
+1754;opencv;opencv/opencv;2012-07-19 09:40:17;C++;opencv;59993;50400;2642;2068;3711
+1755;transformers;huggingface/transformers;2018-10-29 13:56:00;Python;huggingface;58790;13891;793;444;1418
+1756;keras;keras-team/keras;2015-03-28 00:35:42;Python;keras-team;54454;19009;1969;294;2729
+1757;pytorch;pytorch/pytorch;2016-08-13 05:26:41;C++;pytorch;54300;15030;1591;11289;2225
+1758;DeepLearning-500-questions;scutan90/DeepLearning-500-questions;2018-06-27 06:36:45;JavaScript;scutan90;47200;14779;2316;99;1542
+1759;TensorFlow-Examples;aymericdamien/TensorFlow-Examples;2015-11-11 14:21:19;Jupyter Notebook;aymericdamien;41689;15196;2101;213;2501
+1760;faceswap;deepfakes/faceswap;2017-12-19 09:44:13;Python;deepfakes;40430;11535;1519;24;1732
+1761;100-Days-Of-ML-Code;Avik-Jain/100-Days-Of-ML-Code;2018-07-05 09:11:43;;Avik-Jain;34708;8744;2395;60;1534
+1762;Real-Time-Voice-Cloning;CorentinJ/Real-Time-Voice-Cloning;2019-05-26 08:56:15;Python;CorentinJ;33724;6187;816;34;1209
+1763;caffe;BVLC/caffe;2013-09-12 18:39:48;C++;BVLC;32295;18957;2153;1179;3290
+1764;deeplearningbook-chinese;exacity/deeplearningbook-chinese;2016-12-07 11:46:51;TeX;exacity;32227;8972;2246;62;2109
+1765;Deep-Learning-Papers-Reading-Roadmap;floodsung/Deep-Learning-Papers-Reading-Roadmap;2016-10-14 11:49:48;Python;floodsung;31831;6817;2139;86;2163
+1766;DeepFaceLab;iperov/DeepFaceLab;2018-06-04 13:10:00;Python;iperov;31469;7153;995;397;1565
+1767;d2l-zh;d2l-ai/d2l-zh;2017-08-23 04:40:24;Python;d2l-ai;30417;7211;934;15;1850
+1768;MadeWithML;GokuMohandas/MadeWithML;2018-11-05 03:44:27;Jupyter Notebook;GokuMohandas;29642;4997;1201;3;1411
+1769;machine-learning-for-software-engineers;ZuzooVn/machine-learning-for-software-engineers;2016-10-09 21:20:25;;ZuzooVn;25700;6011;1564;21;2167
+1770;tesseract.js;naptha/tesseract.js;2015-06-24 02:49:52;JavaScript;naptha;25672;1757;470;123;2641
+1771;handson-ml;ageron/handson-ml;2016-02-16 19:48:39;Jupyter Notebook;ageron;24084;12703;1099;131;2403
+1772;awesome-deep-learning-papers;terryum/awesome-deep-learning-papers;2016-06-03 06:48:30;TeX;terryum;23563;4475;2015;34;2296
+1773;openpose;CMU-Perceptual-Computing-Lab/openpose;2017-04-24 14:06:31;C++;CMU-Perceptual-Computing-Lab;23431;6948;906;137;1971
+1774;pytorch-tutorial;yunjey/pytorch-tutorial;2017-03-10 07:41:47;Python;yunjey;23136;7096;612;84;2016
+1775;yolov5;ultralytics/yolov5;2020-05-18 03:45:11;Python;ultralytics;22657;8085;282;221;851
+1776;data-science-ipython-notebooks;donnemartin/data-science-ipython-notebooks;2015-01-23 19:38:29;Python;donnemartin;22523;6995;1640;22;2792
+1777;spaCy;explosion/spaCy;2014-07-03 15:15:40;Python;explosion;22520;3728;564;100;2997
+1778;fastai;fastai/fastai;2017-09-09 17:43:36;Jupyter Notebook;fastai;21989;7206;629;110;1832
+1779;ML-From-Scratch;eriklindernoren/ML-From-Scratch;2017-02-05 12:11:23;Python;eriklindernoren;20851;4105;961;45;2049
+1780;MockingBird;babysor/MockingBird;2021-08-07 03:53:39;JavaScript;babysor;19959;2774;203;169;405
+1781;incubator-mxnet;apache/incubator-mxnet;2015-04-30 16:21:15;C++;apache;19881;6889;1099;1982;2696
+1782;handson-ml2;ageron/handson-ml2;2019-01-08 03:49:07;Jupyter Notebook;ageron;19668;9683;575;154;1347
+1783;ray;ray-project/ray;2016-10-25 19:38:30;Python;ray-project;19353;3319;419;2338;2151
+1784;DeepSpeech;mozilla/DeepSpeech;2016-06-02 15:04:53;C++;mozilla;19117;3429;653;121;2297
+1785;spleeter;deezer/spleeter;2019-09-26 15:40:46;Python;deezer;18989;2081;366;126;1086
+1786;applied-ml;eugeneyan/applied-ml;2020-07-04 18:57:47;;eugeneyan;18936;2665;822;2;803
+1787;AI-Expert-Roadmap;AMAI-GmbH/AI-Expert-Roadmap;2020-10-24 21:49:40;JavaScript;AMAI-GmbH;18472;1610;771;7;691
+1788;awesome-deep-learning;ChristosChristofidis/awesome-deep-learning;2015-01-02 19:28:35;;ChristosChristofidis;18366;5585;1252;32;2813
+1789;awesome-datascience;academic/awesome-datascience;2014-07-05 07:07:43;;academic;18037;4906;1421;3;2995
+1790;streamlit;streamlit/streamlit;2019-08-24 00:14:52;Python;streamlit;17862;1605;257;553;1119
+1791;netron;lutzroeder/netron;2010-12-26 12:53:43;JavaScript;lutzroeder;17861;2057;260;20;4282
+1792;Paddle;PaddlePaddle/Paddle;2016-08-15 06:59:08;Python;PaddlePaddle;17690;4299;736;2762;2223
+1793;GFPGAN;TencentARC/GFPGAN;2021-03-19 06:18:20;Python;TencentARC;17500;2659;298;86;546
+1794;pytorch-lightning;PyTorchLightning/pytorch-lightning;2019-03-31 00:45:57;Python;PyTorchLightning;17500;2191;222;528;1265
+1795;CNTK;microsoft/CNTK;2015-11-26 09:52:06;C++;microsoft;17134;4389;1290;836;2486
+1796;100-Days-Of-ML-Code;MLEveryday/100-Days-Of-ML-Code;2018-08-05 13:32:48;Jupyter Notebook;MLEveryday;17055;4727;1087;9;1503
+1797;pytorch-CycleGAN-and-pix2pix;junyanz/pytorch-CycleGAN-and-pix2pix;2017-04-18 10:33:05;Python;junyanz;16941;5100;344;382;1977
+1798;labelImg;tzutalin/labelImg;2015-09-17 01:33:59;Python;tzutalin;16667;5193;359;326;2556
+1799;mediapipe;google/mediapipe;2019-06-13 19:16:41;C++;google;16354;3376;463;336;1190
+1800;pytorch-handbook;zergtant/pytorch-handbook;2018-12-03 02:57:04;Jupyter Notebook;zergtant;16106;4927;518;45;1383
+1801;TensorFlow-Course;instillai/TensorFlow-Course;2018-10-02 18:10:12;Jupyter Notebook;instillai;16031;3230;823;1;1444
+1802;tfjs;tensorflow/tfjs;2018-03-05 05:41:02;TypeScript;tensorflow;16021;1677;324;656;1656
+1803;learnopencv;spmallick/learnopencv;2015-02-17 08:00:51;Jupyter Notebook;spmallick;15763;9935;869;214;2768
+1804;shap;slundberg/shap;2016-11-22 19:17:08;Jupyter Notebook;slundberg;15613;2355;247;1367;2123
+1805;nndl.github.io;nndl/nndl.github.io;2016-09-06 08:09:06;HTML;nndl;15276;3380;754;63;2201
+1806;lectures;oxford-cs-deepnlp-2017/lectures;2017-02-06 11:32:46;;oxford-cs-deepnlp-2017;15253;3635;1253;11;2048
+1807;deep-learning-with-python-notebooks;fchollet/deep-learning-with-python-notebooks;2017-09-05 19:47:56;Jupyter Notebook;fchollet;14889;7352;642;145;1836
+1808;deeplearning-models;rasbt/deeplearning-models;2019-06-05 16:08:20;Jupyter Notebook;rasbt;14824;3679;614;4;1199
+1809;DeOldify;jantic/DeOldify;2018-10-31 23:32:34;Jupyter Notebook;jantic;14752;2109;419;2;1415
+1810;Dive-into-DL-PyTorch;ShusenTang/Dive-into-DL-PyTorch;2019-02-21 03:45:20;Jupyter Notebook;ShusenTang;14575;4705;385;75;1303
+1811;fastbook;fastai/fastbook;2020-02-28 19:26:47;Jupyter Notebook;fastai;14472;5278;476;101;930
+1812;openface;cmusatyalab/openface;2015-09-16 12:47:27;Lua;cmusatyalab;14307;3565;778;9;2557
+1813;cheatsheets-ai;kailashahirwar/cheatsheets-ai;2017-05-24 12:06:56;;kailashahirwar;14188;3413;1069;7;1941
+1814;ncnn;Tencent/ncnn;2017-06-30 10:55:37;C++;Tencent;13924;3343;564;639;1904
+1815;pytorch_geometric;pyg-team/pytorch_geometric;2017-10-06 16:03:03;Python;pyg-team;13921;2461;246;936;1806
+1816;EasyOCR;JaidedAI/EasyOCR;2020-03-14 11:46:39;Python;JaidedAI;13901;1889;273;71;916
+1817;jina;jina-ai/jina;2020-02-13 17:04:44;Python;jina-ai;13860;1804;182;33;945
+1818;Qix;ty4z2008/Qix;2014-04-20 11:03:15;;ty4z2008;13775;4749;1849;0;3071
+1819;Screenshot-to-code;emilwallner/Screenshot-to-code;2017-10-16 11:41:48;HTML;emilwallner;13608;1378;527;14;1796
+1820;neural-networks-and-deep-learning;mnielsen/neural-networks-and-deep-learning;2012-11-13 13:38:24;Python;mnielsen;13233;5968;1085;6;3594
+1821;stanford-cs-229-machine-learning;afshinea/stanford-cs-229-machine-learning;2018-08-04 23:01:00;;afshinea;13188;3263;672;12;1503
+1822;awesome-nlp;keon/awesome-nlp;2015-12-01 11:11:33;;keon;12910;2334;598;7;2481
+1823;Awesome-pytorch-list;bharathgs/Awesome-pytorch-list;2017-03-01 16:58:16;;bharathgs;12653;2639;592;5;2025
+1824;datasets;huggingface/datasets;2020-03-26 09:23:22;Python;huggingface;12555;1519;242;501;904
+1825;d2l-en;d2l-ai/d2l-en;2018-10-09 01:04:37;Python;d2l-ai;12533;2918;345;71;1438
+1826;ml-agents;Unity-Technologies/ml-agents;2017-09-08 21:09:04;C#;Unity-Technologies;12489;3328;540;195;1833
+1827;recommenders;microsoft/recommenders;2018-09-19 10:06:07;Python;microsoft;12466;2162;261;128;1458
+1828;deeplearning4j;eclipse/deeplearning4j;2013-11-27 02:03:28;Java;eclipse;12370;4924;783;763;3215
+1829;imgaug;aleju/imgaug;2015-07-10 20:31:33;Python;aleju;12323;2246;227;269;2624
+1830;facenet;davidsandberg/facenet;2016-02-12 22:14:40;Python;davidsandberg;12317;4710;576;526;2407
+1831;Deep-Learning-with-TensorFlow-book;dragen1860/Deep-Learning-with-TensorFlow-book;2019-06-16 05:53:27;Jupyter Notebook;dragen1860;12217;3978;483;81;1188
+1832;first-order-model;AliaksandrSiarohin/first-order-model;2019-12-11 03:55:25;Jupyter Notebook;AliaksandrSiarohin;12181;2722;353;256;1010
+1833;horovod;horovod/horovod;2017-08-09 19:39:59;Python;horovod;12169;2016;334;296;1863
+1834;onnx;onnx/onnx;2017-09-07 04:53:45;C++;onnx;12118;2471;430;518;1835
+1835;tensor2tensor;tensorflow/tensor2tensor;2017-06-15 16:57:39;Python;tensorflow;12043;3040;448;575;1919
+1836;Machine-Learning-Tutorials;ujjwalkarn/Machine-Learning-Tutorials;2015-09-12 14:51:38;;ujjwalkarn;11859;3489;796;29;2561
+1837;nsfw_data_scraper;alex000kim/nsfw_data_scraper;2019-01-11 02:21:40;Shell;alex000kim;11545;2877;437;12;1344
+1838;conv_arithmetic;vdumoulin/conv_arithmetic;2016-02-24 15:18:33;TeX;vdumoulin;11476;2049;345;5;2396
+1839;neural-enhance;alexjc/neural-enhance;2016-10-01 13:01:50;Python;alexjc;11440;1374;394;154;2176
+1840;pix2code;tonybeltramelli/pix2code;2017-05-24 05:51:41;Python;tonybeltramelli;11375;1317;1229;2;1941
+1841;ML-NLP;NLP-LOVE/ML-NLP;2019-07-05 12:49:53;Jupyter Notebook;NLP-LOVE;11266;3766;374;29;1169
+1842;nni;microsoft/nni;2018-06-01 05:51:44;Python;microsoft;11064;1580;271;294;1568
+1843;CycleGAN;junyanz/CycleGAN;2017-03-30 15:56:21;Lua;junyanz;11063;1866;402;50;1996
+1844;awesome-production-machine-learning;EthicalML/awesome-production-machine-learning;2018-08-15 14:28:41;;EthicalML;11000;1544;435;15;1493
+1845;dlib;davisking/dlib;2014-01-29 00:45:33;C++;davisking;10966;3044;480;49;3152
+1846;allennlp;allenai/allennlp;2017-05-15 15:52:41;Python;allenai;10830;2165;280;92;1950
+1847;FastPhotoStyle;NVIDIA/FastPhotoStyle;2018-02-14 17:29:52;Python;NVIDIA;10736;1169;276;52;1674
+1848;turicreate;apple/turicreate;2017-12-01 00:42:04;C++;apple;10599;1124;359;492;1750
+1849;deep_learning_object_detection;hoya012/deep_learning_object_detection;2018-09-18 01:37:58;Python;hoya012;10470;2793;643;4;1459
+1850;fast-style-transfer;lengstrom/fast-style-transfer;2016-07-21 02:59:11;Python;lengstrom;10332;2596;327;106;2248
+1851;convnetjs;karpathy/convnetjs;2014-01-05 00:12:15;JavaScript;karpathy;10282;2024;605;71;3176
+1852;nlp-tutorial;graykode/nlp-tutorial;2019-01-09 11:44:20;Jupyter Notebook;graykode;10223;3120;280;28;1346
+1853;stanford-tensorflow-tutorials;chiphuyen/stanford-tensorflow-tutorials;2016-11-05 18:21:51;Python;chiphuyen;10137;4394;637;88;2140
+1854;mit-deep-learning-book-pdf;janishar/mit-deep-learning-book-pdf;2017-04-07 10:46:50;Java;janishar;10044;2318;389;10;1988
+1855;deep-learning-drizzle;kmario23/deep-learning-drizzle;2018-11-26 01:17:36;HTML;kmario23;9970;2567;586;5;1390
+1856;bert-as-service;hanxiao/bert-as-service;2018-11-12 10:48:50;Python;hanxiao;9911;1896;200;266;1404
+1857;awesome-deep-vision;kjw0612/awesome-deep-vision;2015-05-18 11:02:08;;kjw0612;9828;2780;1121;41;2678
+1858;fashion-mnist;zalandoresearch/fashion-mnist;2017-08-25 12:05:15;Python;zalandoresearch;9816;2499;327;24;1848
+1859;albumentations;albumentations-team/albumentations;2018-06-06 03:10:50;Python;albumentations-team;9774;1258;125;269;1563
+1860;pytorch-book;chenyuntc/pytorch-book;2017-05-24 07:49:38;Jupyter Notebook;chenyuntc;9743;3456;280;131;1941
+1861;neural-doodle;alexjc/neural-doodle;2016-03-05 23:35:18;Python;alexjc;9712;909;321;50;2385
+1862;tflearn;tflearn/tflearn;2016-03-31 12:05:53;Python;tflearn;9576;2432;466;566;2360
+1863;sonnet;deepmind/sonnet;2017-04-03 11:34:35;Python;deepmind;9208;1315;437;25;1992
+1864;dgl;dmlc/dgl;2018-04-20 14:49:09;Python;dmlc;9021;2059;175;314;1610
+1865;mit-deep-learning;lexfridman/mit-deep-learning;2017-01-08 00:52:01;Jupyter Notebook;lexfridman;9004;2047;648;13;2077
+1866;TensorFlow-Tutorials;Hvass-Labs/TensorFlow-Tutorials;2016-06-26 14:43:21;Jupyter Notebook;Hvass-Labs;8967;4237;554;1;2273
+1867;pix2pix;phillipi/pix2pix;2016-11-16 22:48:50;Lua;phillipi;8868;1595;325;80;2129
+1868;MLAlgorithms;rushter/MLAlgorithms;2016-10-05 06:46:45;Python;rushter;8845;1557;414;8;2172
+1869;transferlearning;jindongwang/transferlearning;2017-04-30 11:32:21;Python;jindongwang;8822;3097;321;5;1965
+1870;the-incredible-pytorch;ritchieng/the-incredible-pytorch;2017-02-11 08:33:11;;ritchieng;8757;1752;452;3;2043
+1871;EffectiveTensorflow;vahidk/EffectiveTensorflow;2017-08-01 06:00:56;;vahidk;8688;951;358;0;1872
+1872;Keras-GAN;eriklindernoren/Keras-GAN;2017-07-11 16:24:53;Python;eriklindernoren;8573;3061;275;135;1893
+1873;pandas-profiling;ydataai/pandas-profiling;2016-01-09 23:47:55;Jupyter Notebook;ydataai;8561;1246;150;121;2441
+1874;tfjs-core;tensorflow/tfjs-core;2017-08-02 14:45:47;TypeScript;tensorflow;8508;990;304;11;1871
+1875;caffe2;facebookarchive/caffe2;2015-06-25 18:23:47;Shell;facebookarchive;8403;2025;536;580;2639
+1876;numerical-linear-algebra;fastai/numerical-linear-algebra;2017-05-16 17:28:12;Jupyter Notebook;fastai;8375;2220;371;10;1948
+1877;autokeras;keras-team/autokeras;2017-11-19 23:18:20;Python;keras-team;8371;1352;311;75;1761
+1878;yolov3;ultralytics/yolov3;2018-08-26 08:57:20;Python;ultralytics;8369;3089;152;10;1482
+1879;CVPR2022-Paper-Code-Interpretation;extreme-assistant/CVPR2022-Paper-Code-Interpretation;2019-02-26 07:53:48;;extreme-assistant;8343;1878;316;19;1298
+1880;computervision-recipes;microsoft/computervision-recipes;2019-02-11 16:23:51;Jupyter Notebook;microsoft;8320;1022;290;64;1313
+1881;ludwig;ludwig-ai/ludwig;2018-12-27 23:58:12;Python;ludwig-ai;8149;973;185;190;1358
+1882;qlib;microsoft/qlib;2020-08-14 06:46:00;Python;microsoft;8120;1403;221;154;763
+1883;500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code;ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code;2021-01-02 12:08:37;;ashishpatel26;8113;2604;421;6;622
+1884;labelme;wkentaro/labelme;2016-05-09 12:30:26;Python;wkentaro;8059;2470;136;130;2321
+1885;PySyft;OpenMined/PySyft;2017-07-18 20:41:16;Jupyter Notebook;OpenMined;7955;1780;209;321;1885
+1886;tvm;apache/tvm;2016-10-12 22:20:28;Python;apache;7780;2407;375;372;2164
+1887;DeepLearningExamples;NVIDIA/DeepLearningExamples;2018-05-02 17:04:05;Python;NVIDIA;7775;2182;255;141;1597
+1888;label-studio;heartexlabs/label-studio;2019-06-19 02:00:44;Python;heartexlabs;7749;916;121;241;1185
+1889;PaddleHub;PaddlePaddle/PaddleHub;2018-12-21 06:00:48;Python;PaddlePaddle;7596;1546;143;417;1365
+1890;CVPR2022-Papers-with-Code;amusi/CVPR2022-Papers-with-Code;2020-02-26 06:04:25;;amusi;7406;1561;216;4;933
+1891;paper-reading;mli/paper-reading;2021-10-22 06:34:51;;mli;7404;647;265;0;329
+1892;carla;carla-simulator/carla;2017-10-24 09:06:23;C++;carla-simulator;7400;2210;237;555;1788
+1893;pyro;pyro-ppl/pyro;2017-06-16 05:03:47;Python;pyro-ppl;7325;896;202;200;1918
+1894;text_classification;brightmart/text_classification;2017-05-30 14:25:42;Python;brightmart;7238;2565;300;46;1935
+1895;DeepLearning;Mikoto10032/DeepLearning;2018-04-09 15:53:37;Jupyter Notebook;Mikoto10032;7136;2239;255;7;1621
+1896;deep-learning-models;fchollet/deep-learning-models;2016-08-03 20:59:28;Python;fchollet;7033;2448;298;87;2234
+1897;machine-learning-yearning-cn;deeplearning-ai/machine-learning-yearning-cn;2018-06-19 19:26:39;CSS;deeplearning-ai;6970;1456;390;0;1549
+1898;cvat;openvinotoolkit/cvat;2018-06-29 14:02:45;Open Policy Agent;openvinotoolkit;6919;1848;155;350;1540
+1899;TensorLayer;tensorlayer/TensorLayer;2016-06-07 15:55:16;Python;tensorlayer;6909;1549;463;29;2292
+1900;deep-learning-for-image-processing;WZMIAOMIAO/deep-learning-for-image-processing;2019-11-14 15:02:27;Python;WZMIAOMIAO;6802;3334;90;2;1037
+1901;trax;google/trax;2019-10-05 15:09:14;Python;google;6784;693;149;90;1077
+1902;awesome-object-detection;amusi/awesome-object-detection;2018-04-06 15:58:50;;amusi;6715;1942;437;6;1624
+1903;deep-learning-coursera;Kulbear/deep-learning-coursera;2017-08-09 12:28:46;Jupyter Notebook;Kulbear;6688;5291;434;24;1864
+1904;spinningup;openai/spinningup;2018-11-07 20:52:15;Python;openai;6684;1603;210;183;1408
+1905;awesome-artificial-intelligence;owainlewis/awesome-artificial-intelligence;2015-01-27 09:27:48;;owainlewis;6646;1436;599;36;2789
+1906;lab;deepmind/lab;2016-11-30 13:41:26;C;deepmind;6632;1343;477;54;2116
+1907;amazon-sagemaker-examples;aws/amazon-sagemaker-examples;2017-10-23 05:55:22;Jupyter Notebook;aws;6607;4964;253;614;1789
+1908;machine_learning_examples;lazyprogrammer/machine_learning_examples;2014-07-31 23:40:45;Python;lazyprogrammer;6578;5555;619;48;2968
+1909;MNN;alibaba/MNN;2019-04-15 07:40:18;C++;alibaba;6471;1331;208;438;1250
+1910;python-machine-learning-book-2nd-edition;rasbt/python-machine-learning-book-2nd-edition;2017-02-09 05:45:15;Jupyter Notebook;rasbt;6465;2741;380;32;2045
+1911;models;PaddlePaddle/models;2017-04-20 13:30:15;Python;PaddlePaddle;6387;2865;276;909;1975
+1912;DeepSpeed;microsoft/DeepSpeed;2020-01-23 18:35:18;Python;microsoft;6368;736;124;433;966
+1913;best-of-ml-python;ml-tooling/best-of-ml-python;2020-11-29 19:41:36;Python;ml-tooling;6318;868;235;2;655
+1914;onnxruntime;microsoft/onnxruntime;2018-11-10 02:22:53;C++;microsoft;6307;1468;194;890;1406
+1915;AdversarialNetsPapers;zhangqianhui/AdversarialNetsPapers;2016-09-24 10:16:42;;zhangqianhui;6280;1978;462;5;2183
+1916;MVision;Ewenwan/MVision;2017-09-24 06:25:27;C++;Ewenwan;6280;2494;366;15;1818
+1917;annotated_deep_learning_paper_implementations;labmlai/annotated_deep_learning_paper_implementations;2020-08-25 02:29:34;Jupyter Notebook;labmlai;6271;477;174;10;752
+1918;attention-is-all-you-need-pytorch;jadore801120/attention-is-all-you-need-pytorch;2017-06-14 10:15:20;Python;jadore801120;6269;1573;97;63;1920
+1919;DeepLearningFlappyBird;yenchenlin/DeepLearningFlappyBird;2016-03-15 03:52:16;Python;yenchenlin;6250;2013;289;36;2376
+1920;awesome-project-ideas;NirantK/awesome-project-ideas;2017-08-19 09:37:58;;NirantK;6224;1153;294;2;1854
+1921;deepo;ufoym/deepo;2017-10-27 11:41:49;Python;ufoym;6185;775;180;2;1785
+1922;SerpentAI;SerpentAI/SerpentAI;2017-04-16 21:48:39;Python;SerpentAI;6180;726;329;2;1978
+1923;tensorpack;tensorpack/tensorpack;2015-12-25 23:08:44;Python;tensorpack;6173;1828;201;12;2456
+1924;TensorFlow-2.x-Tutorials;dragen1860/TensorFlow-2.x-Tutorials;2019-01-30 03:00:09;Jupyter Notebook;dragen1860;6132;2186;226;27;1325
+1925;BossSensor;Hironsan/BossSensor;2016-07-04 06:09:59;Python;Hironsan;6092;1102;269;23;2265
+1926;ml-visuals;dair-ai/ml-visuals;2020-05-17 13:42:29;;dair-ai;6061;757;100;6;852
+1927;stanza;stanfordnlp/stanza;2017-09-26 08:00:56;Python;stanfordnlp;6027;780;146;78;1816
+1928;kornia;kornia/kornia;2018-08-22 10:31:37;Python;kornia;5972;600;110;144;1486
+1929;darkflow;thtrieu/darkflow;2016-08-16 05:54:02;Python;thtrieu;5967;2099;254;639;2222
+1930;wav2letter;flashlight/wav2letter;2017-11-20 17:39:41;C++;flashlight;5943;999;241;98;1760
+1931;Paddle-Lite;PaddlePaddle/Paddle-Lite;2017-09-20 11:41:42;C++;PaddlePaddle;5926;1405;340;789;1822
+1932;cnn-explainer;poloclub/cnn-explainer;2019-11-03 23:15:24;JavaScript;poloclub;5895;933;164;0;1047
+1933;deep-residual-networks;KaimingHe/deep-residual-networks;2016-02-01 13:07:00;;KaimingHe;5871;2217;312;54;2419
+1934;DeepCTR;shenweichen/DeepCTR;2017-10-07 07:40:37;Python;shenweichen;5856;1825;169;123;1805
+1935;Swift-AI;Swift-AI/Swift-AI;2015-11-19 23:43:18;Swift;Swift-AI;5853;562;350;9;2492
+1936;nlp-recipes;microsoft/nlp-recipes;2019-04-05 17:42:41;Python;microsoft;5841;853;188;63;1259
+1937;xlnet;zihangdai/xlnet;2019-06-19 08:16:46;Python;zihangdai;5819;1150;170;187;1185
+1938;YOLOX;Megvii-BaseDetection/YOLOX;2021-07-17 02:01:45;Python;Megvii-BaseDetection;5769;1269;67;390;426
+1939;h2o-3;h2oai/h2o-3;2014-03-03 16:08:07;Jupyter Notebook;h2oai;5743;1902;399;72;3119
+1940;pytorch-Deep-Learning;Atcold/pytorch-Deep-Learning;2018-07-09 11:40:25;Jupyter Notebook;Atcold;5706;1908;131;46;1530
+1941;pytorch3d;facebookresearch/pytorch3d;2019-10-25 02:23:45;Python;facebookresearch;5694;817;140;71;1057
+1942;chainer;chainer/chainer;2015-06-05 05:50:37;Python;chainer;5667;1379;291;9;2660
+1943;TTS;mozilla/TTS;2018-01-23 14:22:06;Jupyter Notebook;mozilla;5663;910;158;20;1697
+1944;machine-learning-notes;roboticcam/machine-learning-notes;2018-02-15 15:42:33;Jupyter Notebook;roboticcam;5659;1509;360;13;1674
+1945;pix2pixHD;NVIDIA/pix2pixHD;2017-12-01 19:19:14;Python;NVIDIA;5642;1236;169;210;1749
+1946;DeepPavlov;deepmipt/DeepPavlov;2017-11-17 14:35:29;Python;deepmipt;5625;1012;214;123;1764
+1947;face-alignment;1adrianb/face-alignment;2017-09-15 20:32:44;Python;1adrianb;5555;1181;169;57;1826
+1948;MMdnn;microsoft/MMdnn;2017-08-16 08:03:52;Python;microsoft;5522;977;185;329;1857
+1949;tiny-dnn;tiny-dnn/tiny-dnn;2012-12-17 14:08:06;C++;tiny-dnn;5498;1383;350;304;3560
+1950;OpenNMT-py;OpenNMT/OpenNMT-py;2017-02-22 19:01:50;Python;OpenNMT;5483;2078;165;106;2031
+1951;smile;haifengl/smile;2014-11-20 16:28:12;Java;haifengl;5457;1065;263;9;2857
+1952;machine-learning-roadmap;mrdbourke/machine-learning-roadmap;2020-07-09 07:07:47;;mrdbourke;5443;926;332;10;799
+1953;dlaicourse;lmoroney/dlaicourse;2019-02-19 14:43:18;Jupyter Notebook;lmoroney;5426;5511;247;143;1305
+1954;Grokking-Deep-Learning;iamtrask/Grokking-Deep-Learning;2016-08-12 01:37:50;Jupyter Notebook;iamtrask;5416;1318;305;44;2226
+1955;ml5-library;ml5js/ml5-library;2017-10-03 20:45:07;JavaScript;ml5js;5411;732;113;218;1808
+1956;machine-learning-mindmap;dformoso/machine-learning-mindmap;2017-08-10 04:29:24;;dformoso;5409;955;298;4;1863
+1957;serving;tensorflow/serving;2016-01-26 21:48:20;C++;tensorflow;5391;2087;239;124;2424
+1958;jetson-inference;dusty-nv/jetson-inference;2016-07-30 19:56:47;C++;dusty-nv;5376;2433;261;800;2238
+1959;TopDeepLearning;aymericdamien/TopDeepLearning;2016-04-27 04:13:03;Python;aymericdamien;5364;1182;358;17;2333
+1960;machine-learning-for-trading;stefan-jansen/machine-learning-for-trading;2018-05-09 12:33:08;Jupyter Notebook;stefan-jansen;5358;2079;263;11;1591
+1961;metaflow;Netflix/metaflow;2019-09-17 17:48:25;Python;Netflix;5344;481;231;220;1094
+1962;gradio;gradio-app/gradio;2018-12-19 08:24:04;Python;gradio-app;5324;347;66;89;1367
+1963;pyod;yzhao062/pyod;2017-10-03 20:29:04;Python;yzhao062;5287;1043;151;122;1808
+1964;srez;david-gpu/srez;2016-08-26 22:22:09;Python;david-gpu;5284;688;192;23;2211
+1965;stanford-cs-230-deep-learning;afshinea/stanford-cs-230-deep-learning;2018-11-27 05:12:37;;afshinea;5277;1158;215;5;1389
+1966;RobustVideoMatting;PeterL1n/RobustVideoMatting;2021-08-30 20:57:44;Python;PeterL1n;5255;602;108;34;381
+1967;keras-rl;keras-rl/keras-rl;2016-07-02 15:53:12;Python;keras-rl;5211;1328;216;46;2267
+1968;seq2seq-couplet;wb14123/seq2seq-couplet;2018-02-24 02:44:52;Python;wb14123;5200;1066;131;30;1665
+1969;ASRT_SpeechRecognition;nl8590687/ASRT_SpeechRecognition;2017-03-06 15:28:21;Python;nl8590687;5133;1518;173;72;2020
+1970;docs;tensorflow/docs;2018-04-12 22:23:12;Jupyter Notebook;tensorflow;5117;4821;208;9;1617
+1971;graph_nets;deepmind/graph_nets;2018-08-31 08:19:28;Python;deepmind;5083;777;221;4;1477
+1972;introtodeeplearning;aamini/introtodeeplearning;2018-01-28 18:26:44;Jupyter Notebook;aamini;5081;2490;262;22;1691
+1973;daily-paper-computer-vision;amusi/daily-paper-computer-vision;2018-05-15 16:27:19;;amusi;5078;1242;428;4;1585
+1974;gluon-cv;dmlc/gluon-cv;2018-02-26 01:33:21;Python;dmlc;5075;1140;153;58;1663
+1975;PythonPark;Jack-Cherish/PythonPark;2020-04-29 06:24:33;Python;Jack-Cherish;5063;954;132;0;870
+1976;Pytorch-UNet;milesial/Pytorch-UNet;2017-08-16 12:17:08;Python;milesial;5013;1611;64;26;1857
+1977;TensorRT;NVIDIA/TensorRT;2019-05-02 22:02:08;C++;NVIDIA;4948;1232;121;331;1232
+1978;Stock-Prediction-Models;huseinzol05/Stock-Prediction-Models;2017-12-18 10:49:59;Jupyter Notebook;huseinzol05;4915;1984;324;37;1733
+1979;keras-js;transcranial/keras-js;2016-09-30 14:40:35;JavaScript;transcranial;4863;523;184;82;2177
+1980;Practical_RL;yandexdataschool/Practical_RL;2017-01-23 16:18:00;Jupyter Notebook;yandexdataschool;4841;1481;207;35;2062
+1981;mmf;facebookresearch/mmf;2018-06-27 04:52:40;Python;facebookresearch;4812;834;110;200;1542
+1982;pwnagotchi;evilsocket/pwnagotchi;2019-09-19 13:07:15;JavaScript;evilsocket;4800;744;212;196;1093
+1983;course-v3;fastai/course-v3;2018-10-11 19:41:45;Jupyter Notebook;fastai;4793;3651;232;43;1435
+1984;Realtime_Multi-Person_Pose_Estimation;ZheC/Realtime_Multi-Person_Pose_Estimation;2016-12-12 17:40:12;Jupyter Notebook;ZheC;4786;1370;268;107;2103
+1985;espnet;espnet/espnet;2017-12-13 00:45:11;Python;espnet;4739;1482;178;332;1738
+1986;edward;blei-lab/edward;2016-02-10 20:06:05;Jupyter Notebook;blei-lab;4693;779;281;220;2409
+1987;awesome-self-supervised-learning;jason718/awesome-self-supervised-learning;2018-02-10 01:57:50;;jason718;4648;694;243;0;1679
+1988;Augmentor;mdbloice/Augmentor;2016-03-01 18:29:55;Python;mdbloice;4646;841;128;126;2389
+1989;textgenrnn;minimaxir/textgenrnn;2017-08-07 02:13:37;Python;minimaxir;4645;739;142;134;1866
+1990;DeepLearning.ai-Summary;mbadry1/DeepLearning.ai-Summary;2017-11-12 15:08:34;Python;mbadry1;4637;2388;185;13;1769
+1991;Ai-Learn;tangyudi/Ai-Learn;2020-01-28 01:55:06;;tangyudi;4625;1247;168;19;962
+1992;sketch-code;ashnkumar/sketch-code;2018-01-19 21:44:13;Python;ashnkumar;4591;635;219;28;1700
+1993;tensorspace;tensorspace-team/tensorspace;2018-07-22 14:14:29;JavaScript;tensorspace-team;4581;404;132;22;1517
+1994;mace;XiaoMi/mace;2018-06-27 03:50:12;C++;XiaoMi;4580;792;229;49;1542
+1995;AidLearning-FrameWork;aidlearning/AidLearning-FrameWork;2019-04-19 06:01:12;Python;aidlearning;4573;681;203;18;1246
+1996;einops;arogozhnikov/einops;2018-09-22 00:45:08;Python;arogozhnikov;4565;187;55;32;1455
+1997;ssd.pytorch;amdegroot/ssd.pytorch;2017-02-08 01:50:36;Python;amdegroot;4564;1699;84;357;2046
+1998;TensorFlow-World;astorfi/TensorFlow-World;2017-03-24 22:19:05;Python;astorfi;4533;433;169;3;2001
+1999;deep-learning-v2-pytorch;udacity/deep-learning-v2-pytorch;2018-09-04 17:53:50;Jupyter Notebook;udacity;4526;4990;172;3;1472
+2000;HyperLPR;szad670401/HyperLPR;2017-09-24 05:44:38;C++;szad670401;4479;1822;197;69;1818
+2001;sqlflow;sql-machine-learning/sqlflow;2018-10-04 06:00:50;Go;sql-machine-learning;4450;664;168;246;1443
+2002;amazon-dsstne;amazon-archives/amazon-dsstne;2016-03-24 06:57:40;C++;amazon-archives;4440;765;348;47;2367
+2003;models;onnx/models;2017-10-06 00:03:03;Jupyter Notebook;onnx;4434;962;167;130;1806
+2004;DenseNet;liuzhuang13/DenseNet;2016-08-24 21:32:52;Lua;liuzhuang13;4424;1043;178;29;2213
+2005;gorgonia;gorgonia/gorgonia;2016-09-14 23:19:43;Go;gorgonia;4409;373;193;84;2192
+2006;t81_558_deep_learning;jeffheaton/t81_558_deep_learning;2016-07-31 02:32:59;Jupyter Notebook;jeffheaton;4343;2370;287;3;2238
+2007;plaidml;plaidml/plaidml;2017-08-15 01:43:24;C++;plaidml;4343;407;160;293;1858
+2008;neurojs;janhuenermann/neurojs;2016-09-18 23:33:53;JavaScript;janhuenermann;4342;369;164;3;2188
+2009;tianshou;thu-ml/tianshou;2018-04-16 22:47:38;Python;thu-ml;4339;686;75;44;1613
+2010;deeplearning-papernotes;dennybritz/deeplearning-papernotes;2015-12-19 18:34:21;;dennybritz;4326;920;771;6;2462
+2011;DeepLearningProject;Spandan-Madan/DeepLearningProject;2017-07-12 16:03:24;HTML;Spandan-Madan;4324;637;202;5;1892
+2012;Hub;activeloopai/Hub;2019-08-09 06:17:59;Python;activeloopai;4319;354;63;66;1134
+2013;MachineLearning;wepe/MachineLearning;2014-12-05 14:53:17;Python;wepe;4317;3015;455;29;2842
+2014;VisualDL;PaddlePaddle/VisualDL;2017-12-20 12:34:31;TypeScript;PaddlePaddle;4298;583;152;72;1731
+2015;RSPapers;hongleizhang/RSPapers;2018-01-30 13:57:57;;hongleizhang;4277;1110;302;0;1690
+2016;DeepLearningZeroToAll;hunkim/DeepLearningZeroToAll;2017-02-20 06:26:23;Jupyter Notebook;hunkim;4271;2732;429;0;2034
+2017;deep-learning-roadmap;instillai/deep-learning-roadmap;2019-01-07 05:03:26;Python;instillai;4265;660;215;1;1348
+2018;pytorch-grad-cam;jacobgil/pytorch-grad-cam;2017-05-31 19:55:15;Python;jacobgil;4250;835;32;20;1933
+2019;Deep-Learning-21-Examples;hzy46/Deep-Learning-21-Examples;2018-01-01 11:07:50;Python;hzy46;4248;1769;161;48;1719
+2020;DeepLearning;MingchaoZhu/DeepLearning;2020-02-27 07:11:46;Python;MingchaoZhu;4190;989;183;6;932
+2021;pytorch-metric-learning;KevinMusgrave/pytorch-metric-learning;2019-10-23 17:20:35;Python;KevinMusgrave;4179;520;67;43;1058
+2022;autogluon;awslabs/autogluon;2019-07-29 18:51:24;Python;awslabs;4173;557;82;135;1144
+2023;Deep-Reinforcement-Learning-Algorithms-with-PyTorch;p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch;2018-09-07 13:01:21;Python;p-christ;4158;997;111;38;1470
+2024;MegEngine;MegEngine/MegEngine;2020-03-18 08:21:58;C++;MegEngine;4142;468;133;198;912
+2025;flashlight;flashlight/flashlight;2018-12-11 18:28:47;C++;flashlight;4136;395;121;134;1374
+2026;nanodet;RangiLyu/nanodet;2020-10-19 08:36:25;Python;RangiLyu;4110;766;61;137;697
+2027;deep-daze;lucidrains/deep-daze;2021-01-17 06:00:50;Python;lucidrains;4083;302;72;87;607
+2028;deep-reinforcement-learning;udacity/deep-reinforcement-learning;2018-07-06 18:36:23;Jupyter Notebook;udacity;4079;2139;179;23;1532
+2029;SSD-Tensorflow;balancap/SSD-Tensorflow;2017-01-18 13:45:38;Jupyter Notebook;balancap;4079;1958;175;300;2067
+2030;TTS;coqui-ai/TTS;2020-05-20 15:45:28;Python;coqui-ai;4074;392;83;41;849
+2031;DIGITS;NVIDIA/DIGITS;2015-03-17 16:00:20;HTML;NVIDIA;4054;1410;331;629;2740
+2032;DeepLearningTutorials;lisa-lab/DeepLearningTutorials;2010-01-07 18:42:37;Python;lisa-lab;4042;2170;430;22;4634
+2033;learning-to-learn;deepmind/learning-to-learn;2016-12-06 08:25:37;Python;deepmind;4042;611;205;16;2110
+2034;ai-deadlines;paperswithcode/ai-deadlines;2016-11-18 23:11:12;HTML;paperswithcode;4035;669;99;13;2127
+2035;x-deeplearning;alibaba/x-deeplearning;2018-12-12 08:18:26;PureBasic;alibaba;4002;1012;235;122;1374
+2036;mlpack;mlpack/mlpack;2014-12-17 18:16:59;C++;mlpack;3926;1414;187;83;2829
+2037;NeMo;NVIDIA/NeMo;2019-08-05 20:16:42;Jupyter Notebook;NVIDIA;3923;894;130;64;1137
+2038;Deep-Learning-Interview-Book;amusi/Deep-Learning-Interview-Book;2019-06-24 15:06:11;;amusi;3895;886;155;7;1180
+2039;ignite;pytorch/ignite;2017-11-23 17:31:21;Python;pytorch;3885;529;60;145;1757
+2040;dl-docker;floydhub/dl-docker;2016-06-04 18:42:28;Python;floydhub;3872;839;156;70;2294
+2041;iGAN;junyanz/iGAN;2016-09-21 06:44:49;Python;junyanz;3861;606;177;14;2186
+2042;DALLE-pytorch;lucidrains/DALLE-pytorch;2021-01-05 20:35:16;Python;lucidrains;3860;400;86;104;618
+2043;neon;NervanaSystems/neon;2014-10-16 01:00:17;Python;NervanaSystems;3856;833;334;90;2892
+2044;d2l-pytorch;dsgiitr/d2l-pytorch;2019-05-11 04:35:20;Jupyter Notebook;dsgiitr;3842;1139;168;10;1224
+2045;deep-learning;udacity/deep-learning;2017-01-13 16:27:59;Jupyter Notebook;udacity;3817;4457;314;1;2072
+2046;speechbrain;speechbrain/speechbrain;2020-04-28 17:48:45;Python;speechbrain;3773;701;107;162;870
+2047;VoTT;microsoft/VoTT;2016-12-29 13:32:23;TypeScript;microsoft;3749;762;109;248;2087
+2048;tensorrtx;wang-xinyu/tensorrtx;2019-11-25 09:01:36;C++;wang-xinyu;3739;1088;77;61;1026
+2049;darts;unit8co/darts;2018-09-13 15:17:28;Python;unit8co;3735;355;45;127;1464
+2050;DALI;NVIDIA/DALI;2018-06-01 22:18:01;C++;NVIDIA;3730;482;83;173;1567
+2051;client;wandb/client;2017-03-24 05:46:23;Python;wandb;3729;299;35;370;2002
+2052;deep-learning-papers-translation;SnailTyan/deep-learning-papers-translation;2018-01-02 08:32:36;;SnailTyan;3727;1183;169;1;1718
+2053;benchmark_results;foolwood/benchmark_results;2016-08-17 02:23:51;;foolwood;3710;1075;355;17;2221
+2054;DeepLearnToolbox;rasmusbergpalm/DeepLearnToolbox;2011-10-27 13:15:57;Matlab;rasmusbergpalm;3656;2294;471;82;3977
+2055;hands-on-ml-zh;apachecn/hands-on-ml-zh;2018-04-08 09:19:49;CSS;apachecn;3636;1532;270;19;1622
+2056;pointnet;charlesq34/pointnet;2017-01-31 04:50:28;Python;charlesq34;3607;1292;126;166;2054
+2057;probability;tensorflow/probability;2017-10-23 23:50:54;Jupyter Notebook;tensorflow;3605;968;171;554;1788
+2058;MatchZoo;NTMC-Community/MatchZoo;2017-06-08 08:55:22;Python;NTMC-Community;3604;913;178;31;1926
+2059;Ad-papers;wzhe06/Ad-papers;2016-08-07 08:26:26;Python;wzhe06;3596;1089;336;2;2231
+2060;deep-high-resolution-net.pytorch;leoxiaobin/deep-high-resolution-net.pytorch;2019-02-25 03:21:43;Cuda;leoxiaobin;3591;830;78;181;1299
+2061;Flux.jl;FluxML/Flux.jl;2016-04-01 21:11:05;Julia;FluxML;3538;509;100;233;2358
+2062;machine-learning-interview;khangich/machine-learning-interview;2020-08-11 06:26:32;;khangich;3531;612;135;0;766
+2063;graph-based-deep-learning-literature;naganandy/graph-based-deep-learning-literature;2017-12-01 14:48:35;Jupyter Notebook;naganandy;3525;620;222;2;1750
+2064;tensorflow-yolov3;YunYang1994/tensorflow-yolov3;2018-11-23 06:26:37;Python;YunYang1994;3521;1396;89;483;1393
+2065;darts;quark0/darts;2018-06-25 05:27:29;Python;quark0;3511;787;93;89;1544
+2066;Tensorflow-Project-Template;MrGemy95/Tensorflow-Project-Template;2018-01-21 19:14:33;Python;MrGemy95;3481;809;154;4;1698
+2067;deepchem;deepchem/deepchem;2015-09-24 23:20:28;Python;deepchem;3463;1280;151;457;2548
+2068;telegram-list;goq/telegram-list;2016-08-12 16:16:12;;goq;3444;719;237;8;2226
+2069;image-super-resolution;idealo/image-super-resolution;2018-11-26 13:41:13;Python;idealo;3442;621;95;86;1390
+2070;Production-Level-Deep-Learning;alirezadir/Production-Level-Deep-Learning;2019-11-19 20:11:21;;alirezadir;3431;512;150;6;1031
+2071;pytorch-doc-zh;apachecn/pytorch-doc-zh;2018-01-08 08:28:04;JavaScript;apachecn;3427;929;89;8;1712
+2072;Dive-into-DL-TensorFlow2.0;TrickyGo/Dive-into-DL-TensorFlow2.0;2018-04-23 09:10:41;Jupyter Notebook;TrickyGo;3424;799;110;19;1607
+2073;interviews.ai;BoltzmannEntropy/interviews.ai;2021-09-30 17:04:46;;BoltzmannEntropy;3413;250;45;4;350
+2074;pytorch-summary;sksq96/pytorch-summary;2018-04-23 13:58:04;Python;sksq96;3410;391;35;123;1607
+2075;TNN;Tencent/TNN;2020-05-29 07:20:28;C++;Tencent;3383;604;90;199;840
+2076;Reinforcement-Learning;andri27-ts/Reinforcement-Learning;2018-08-28 11:04:16;Jupyter Notebook;andri27-ts;3367;477;238;3;1480
+2077;adanet;tensorflow/adanet;2018-06-28 20:20:24;Jupyter Notebook;tensorflow;3366;526;171;65;1540
+2078;zhihu;NELSONZHAO/zhihu;2017-05-25 13:38:51;Jupyter Notebook;NELSONZHAO;3334;2162;155;31;1940
+2079;server;triton-inference-server/server;2018-10-04 21:10:30;C++;triton-inference-server;3327;783;110;132;1442
+2080;AI-Job-Notes;amusi/AI-Job-Notes;2019-02-11 11:37:17;;amusi;3312;562;118;2;1313
+2081;deepface;serengil/deepface;2020-02-08 20:42:28;Python;serengil;3295;750;66;3;950
+2082;Deep_reinforcement_learning_Course;simoninithomas/Deep_reinforcement_learning_Course;2018-03-25 10:08:52;Jupyter Notebook;simoninithomas;3289;1160;138;45;1636
+2083;SiamMask;foolwood/SiamMask;2019-03-04 11:34:17;Python;foolwood;3240;804;97;148;1292
+2084;dlwpt-code;deep-learning-with-pytorch/dlwpt-code;2018-03-31 22:58:20;Jupyter Notebook;deep-learning-with-pytorch;3231;1347;101;53;1629
+2085;ALAE;podgorskiy/ALAE;2019-03-12 18:31:50;Python;podgorskiy;3229;532;84;35;1283
+2086;3D-ResNets-PyTorch;kenshohara/3D-ResNets-PyTorch;2017-09-14 12:14:44;Python;kenshohara;3222;868;58;144;1828
+2087;tensorwatch;microsoft/tensorwatch;2019-05-15 08:29:34;Jupyter Notebook;microsoft;3213;347;104;52;1220
+2088;skflow;tensorflow/skflow;2015-11-18 19:55:34;Python;tensorflow;3202;467;167;4;2493
+2089;pytorch-semseg;meetps/pytorch-semseg;2017-03-22 20:28:59;Python;meetps;3199;799;106;128;2003
+2090;olivia;olivia-ai/olivia;2018-06-05 18:19:31;Go;olivia-ai;3195;319;83;21;1563
+2091;3DDFA;cleardusk/3DDFA;2018-06-29 14:19:21;Python;cleardusk;3192;616;120;50;1540
+2092;datascience;r0f1/datascience;2018-11-22 09:21:49;;r0f1;3190;547;140;0;1394
+2093;Deep-Learning-in-Production;ahkarami/Deep-Learning-in-Production;2018-05-03 10:24:24;;ahkarami;3188;526;132;4;1597
+2094;deep-person-reid;KaiyangZhou/deep-person-reid;2018-03-11 21:14:39;Python;KaiyangZhou;3185;909;104;80;1649
+2095;pytorch-template;victoresque/pytorch-template;2018-03-13 00:21:14;Python;victoresque;3173;788;56;16;1648
+2096;makegirlsmoe_web;makegirlsmoe/makegirlsmoe_web;2017-07-15 01:30:14;JavaScript;makegirlsmoe;3173;318;112;34;1889
+2097;keras-resources;fchollet/keras-resources;2016-07-28 21:15:05;;fchollet;3170;890;220;11;2240
+2098;SynapseML;microsoft/SynapseML;2017-06-05 08:23:44;Scala;microsoft;3155;656;131;247;1929
+2099;Awesome-PyTorch-Chinese;INTERMT/Awesome-PyTorch-Chinese;2019-05-01 07:16:27;Python;INTERMT;3142;722;97;2;1234
+2100;Deep-Learning-Roadmap;astorfi/Deep-Learning-Roadmap;2018-08-12 22:12:56;Python;astorfi;3133;317;149;1;1495
+2101;vosk-api;alphacep/vosk-api;2019-09-03 17:48:42;C++;alphacep;3127;570;91;196;1108
+2102;ArtLine;vijishmadhavan/ArtLine;2020-11-23 11:11:19;Jupyter Notebook;vijishmadhavan;3114;318;83;16;662
+2103;handong1587.github.io;handong1587/handong1587.github.io;2015-08-15 08:49:23;CSS;handong1587;3104;1031;363;3;2589
+2104;Deep-Learning;priya-dwivedi/Deep-Learning;2016-08-17 18:29:12;Jupyter Notebook;priya-dwivedi;3093;2350;189;88;2220
+2105;byteps;bytedance/byteps;2019-06-25 07:00:13;Python;bytedance;3089;440;81;101;1179
+2106;MachineLearning;allmachinelearning/MachineLearning;2017-05-09 10:29:21;;allmachinelearning;3082;944;306;3;1956
+2107;deep-learning-model-convertor;ysh329/deep-learning-model-convertor;2017-04-16 14:28:41;;ysh329;3073;475;125;5;1979
+2108;deep-learning-papers;sbrugman/deep-learning-papers;2016-10-29 15:59:13;;sbrugman;3065;415;249;5;2148
+2109;oneflow;Oneflow-Inc/oneflow;2017-02-11 06:09:53;C++;Oneflow-Inc;3056;372;99;486;2043
+2110;open_model_zoo;openvinotoolkit/open_model_zoo;2018-10-15 10:55:02;Python;openvinotoolkit;3047;1076;113;48;1432
+2111;dlrm;facebookresearch/dlrm;2019-05-14 02:01:36;Python;facebookresearch;3044;678;104;14;1221
+2112;openvino;openvinotoolkit/openvino;2018-10-15 10:54:40;C++;openvinotoolkit;3044;1304;148;525;1432
+2113;python-machine-learning-book-3rd-edition;rasbt/python-machine-learning-book-3rd-edition;2019-06-07 04:19:59;Jupyter Notebook;rasbt;3041;1335;139;14;1197
+2114;Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials;TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials;2017-07-13 19:46:01;Python;TarrySingh;3033;1499;320;111;1890
+2115;polyaxon;polyaxon/polyaxon;2016-12-26 12:48:47;Python;polyaxon;3024;302;77;113;2090
+2116;clearml;allegroai/clearml;2019-06-10 08:18:32;Python;allegroai;3018;413;74;172;1194
+2117;deep-learning-from-scratch;oreilly-japan/deep-learning-from-scratch;2016-06-29 07:33:04;Python;oreilly-japan;3012;2731;224;8;2270
+2118;photo2cartoon;minivision-ai/photo2cartoon;2020-04-17 08:24:26;Python;minivision-ai;2981;595;76;5;882
+2119;PyTorch-VAE;AntixK/PyTorch-VAE;2020-01-10 12:41:23;Python;AntixK;2972;600;33;22;980
+2120;neural-style-tf;cysmith/neural-style-tf;2016-10-08 20:42:56;Python;cysmith;2971;833;133;67;2168
+2121;LSTM-Human-Activity-Recognition;guillaume-chevalier/LSTM-Human-Activity-Recognition;2016-05-18 02:00:21;Jupyter Notebook;guillaume-chevalier;2967;892;159;18;2312
+2122;ResNeSt;zhanghang1989/ResNeSt;2020-03-15 18:42:11;Python;zhanghang1989;2963;479;55;53;914
+2123;awesome-multimodal-ml;pliang279/awesome-multimodal-ml;2019-05-27 23:03:48;;pliang279;2962;536;148;2;1207
+2124;text;pytorch/text;2016-12-12 00:56:03;Python;pytorch;2952;698;249;321;2104
+2125;tencent-ml-images;Tencent/tencent-ml-images;2018-10-15 02:29:22;Python;Tencent;2938;497;131;45;1432
+2126;DeepLearning;yusugomori/DeepLearning;2013-01-01 16:23:53;Java;yusugomori;2929;1402;419;34;3545
+2127;keras-vis;raghakot/keras-vis;2016-11-11 23:27:34;Python;raghakot;2918;646;71;117;2134
+2128;LiteratureDL4Graph;DeepGraphLearning/LiteratureDL4Graph;2019-06-20 06:38:05;;DeepGraphLearning;2907;572;193;5;1184
+2129;reinforcement-learning;rlcode/reinforcement-learning;2017-01-13 09:30:09;Python;rlcode;2906;703;126;35;2072
+2130;MachineLearningNotebooks;Azure/MachineLearningNotebooks;2018-08-17 17:29:14;Jupyter Notebook;Azure;2879;2072;2078;249;1490
+2131;kaolin;NVIDIAGameWorks/kaolin;2019-11-14 21:09:40;Python;NVIDIAGameWorks;2877;408;110;118;1036
+2132;deep-learning-keras-tensorflow;leriomaggio/deep-learning-keras-tensorflow;2016-08-02 10:13:21;Jupyter Notebook;leriomaggio;2873;1291;197;12;2236
+2133;Reco-papers;wzhe06/Reco-papers;2018-05-29 17:29:04;Python;wzhe06;2871;743;194;2;1570
+2134;easy-tensorflow;easy-tensorflow/easy-tensorflow;2017-11-30 20:02:40;Python;easy-tensorflow;2871;368;107;3;1750
+2135;catalyst;catalyst-team/catalyst;2018-08-20 07:56:13;Python;catalyst-team;2855;354;47;3;1488
+2136;layout-parser;Layout-Parser/layout-parser;2020-06-10 20:22:54;Python;Layout-Parser;2854;274;55;45;827
+2137;monodepth2;nianticlabs/monodepth2;2019-05-02 14:17:17;Jupyter Notebook;nianticlabs;2854;727;63;33;1233
+2138;colorization;richzhang/colorization;2016-03-26 02:33:33;Python;richzhang;2843;760;111;46;2365
+2139;DeepQA;Conchylicultor/DeepQA;2016-07-07 17:17:20;Python;Conchylicultor;2822;1197;213;94;2261
+2140;EAST;argman/EAST;2017-07-31 10:56:36;C++;argman;2822;1045;117;256;1873
+2141;lama;saic-mdal/lama;2021-08-30 18:27:52;Jupyter Notebook;saic-mdal;2809;274;49;23;381
+2142;nlp-architect;IntelLabs/nlp-architect;2018-05-17 21:00:13;Python;IntelLabs;2805;449;168;21;1582
+2143;Machine-Learning-Notes;Sophia-11/Machine-Learning-Notes;2019-09-20 05:06:57;;Sophia-11;2800;686;130;3;1092
+2144;face.evoLVe;ZhaoJ9014/face.evoLVe;2019-01-04 02:22:17;Python;ZhaoJ9014;2796;690;113;75;1351
+2145;deepjazz;jisungk/deepjazz;2016-04-02 01:00:05;Python;jisungk;2790;435;112;12;2358
+2146;DeepNLP-models-Pytorch;DSKSD/DeepNLP-models-Pytorch;2017-08-16 01:22:16;Jupyter Notebook;DSKSD;2787;663;116;11;1857
+2147;covid-chestxray-dataset;ieee8023/covid-chestxray-dataset;2020-02-14 23:22:23;Jupyter Notebook;ieee8023;2783;1203;154;41;944
+2148;DeepLabCut;DeepLabCut/DeepLabCut;2018-03-26 22:29:12;Python;DeepLabCut;2776;1256;117;29;1634
+2149;MONAI;Project-MONAI/MONAI;2019-10-11 16:41:38;Python;Project-MONAI;2766;539;81;153;1071
+2150;Super-SloMo;avinashpaliwal/Super-SloMo;2018-12-25 17:34:17;Python;avinashpaliwal;2750;456;103;26;1360
+2151;deep-text-recognition-benchmark;clovaai/deep-text-recognition-benchmark;2019-04-03 07:24:05;Jupyter Notebook;clovaai;2748;886;82;160;1262
+2152;Automatic_Speech_Recognition;zzw922cn/Automatic_Speech_Recognition;2016-11-13 03:51:07;Python;zzw922cn;2747;546;149;69;2133
+2153;euler;alibaba/euler;2019-01-10 06:32:32;C++;alibaba;2732;553;138;216;1345
+2154;mindspore;mindspore-ai/mindspore;2020-02-11 08:43:48;C++;mindspore-ai;2722;516;149;95;948
+2155;deep-learning-book;rasbt/deep-learning-book;2016-12-18 07:15:40;Jupyter Notebook;rasbt;2716;764;214;2;2098
+2156;pytorch-a2c-ppo-acktr-gail;ikostrikov/pytorch-a2c-ppo-acktr-gail;2017-08-22 15:57:25;Python;ikostrikov;2706;732;65;84;1851
+2157;easy12306;zhaipro/easy12306;2015-03-23 09:37:12;Python;zhaipro;2703;707;74;8;2734
+2158;dm_control;deepmind/dm_control;2017-12-29 18:13:15;Python;deepmind;2699;497;123;28;1721
+2159;alpha-zero-general;suragnair/alpha-zero-general;2017-12-01 02:55:15;Jupyter Notebook;suragnair;2696;777;103;43;1750
+2160;awesome-knowledge-distillation;dkozlov/awesome-knowledge-distillation;2017-02-28 13:18:38;;dkozlov;2693;449;111;0;2026
+2161;oneDNN;oneapi-src/oneDNN;2016-05-09 23:26:42;C++;oneapi-src;2692;733;184;35;2320
+2162;PocketFlow;Tencent/PocketFlow;2018-10-31 07:45:21;Python;Tencent;2678;502;150;74;1416
+2163;competition-baseline;datawhalechina/competition-baseline;2019-12-03 06:16:55;Jupyter Notebook;datawhalechina;2671;807;84;0;1018
+2164;spotlight;maciejkula/spotlight;2017-06-25 18:52:19;Python;maciejkula;2666;404;111;71;1908
+2165;porcupine;Picovoice/porcupine;2018-03-08 01:55:25;JavaScript;Picovoice;2655;386;61;6;1653
+2166;book;PaddlePaddle/book;2016-12-16 03:00:50;Jupyter Notebook;PaddlePaddle;2634;1331;276;88;2100
+2167;Learn_Deep_Learning_in_6_Weeks;llSourcell/Learn_Deep_Learning_in_6_Weeks;2018-05-28 15:41:07;;llSourcell;2633;907;228;2;1572
+2168;siamese-triplet;adambielski/siamese-triplet;2018-03-06 22:25:41;Python;adambielski;2600;560;48;18;1654
+2169;best_AI_papers_2021;louisfb01/best_AI_papers_2021;2021-11-06 16:55:30;;louisfb01;2574;203;84;0;314
+2170;awesome-satellite-imagery-datasets;chrieke/awesome-satellite-imagery-datasets;2018-05-01 22:13:17;;chrieke;2559;513;169;0;1598
+2171;mxnet-the-straight-dope;zackchase/mxnet-the-straight-dope;2017-07-11 23:24:36;Jupyter Notebook;zackchase;2553;744;141;125;1892
+2172;keras-attention-mechanism;philipperemy/keras-attention-mechanism;2017-05-23 05:28:01;Python;philipperemy;2543;652;77;3;1942
+2173;pytorch-cifar100;weiaicunzai/pytorch-cifar100;2017-04-22 14:11:57;Python;weiaicunzai;2534;831;28;39;1973
+2174;human-pose-estimation.pytorch;microsoft/human-pose-estimation.pytorch;2018-08-01 07:35:15;Python;microsoft;2531;552;77;88;1507
+2175;Deep-Learning-for-Recommendation-Systems;robi56/Deep-Learning-for-Recommendation-Systems;2017-05-08 11:24:34;;robi56;2530;688;205;0;1957
+2176;singa;apache/singa;2015-04-02 07:00:05;C++;apache;2524;802;121;39;2724
+2177;miles-deep;ryanjay0/miles-deep;2016-11-13 05:49:47;C++;ryanjay0;2519;292;173;10;2133
+2178;awesome-deeplearning-resources;endymecy/awesome-deeplearning-resources;2016-11-28 05:42:02;;endymecy;2513;661;230;0;2118
+2179;BigGAN-PyTorch;ajbrock/BigGAN-PyTorch;2019-01-20 18:50:49;Python;ajbrock;2512;443;52;40;1334
+2180;fastNLP;fastnlp/fastNLP;2018-03-07 13:30:20;Python;fastnlp;2508;412;80;40;1654
+2181;interactive-deep-colorization;junyanz/interactive-deep-colorization;2017-05-08 07:27:47;Python;junyanz;2491;433;124;32;1957
+2182;imgclsmob;osmr/imgclsmob;2018-07-09 12:57:46;Python;osmr;2484;499;75;6;1530
+2183;practicalAI-cn;MLEveryday/practicalAI-cn;2018-12-11 09:40:16;Jupyter Notebook;MLEveryday;2479;632;153;6;1375
+2184;gluon-ts;awslabs/gluon-ts;2019-05-15 17:17:29;Python;awslabs;2478;526;68;285;1219
+2185;start-machine-learning;louisfb01/start-machine-learning;2020-09-24 11:48:46;;louisfb01;2474;333;112;1;722
+2186;thinc;explosion/thinc;2014-10-16 16:34:59;Python;explosion;2465;237;82;25;2892
+2187;PyTorch-StudioGAN;POSTECH-CVLab/PyTorch-StudioGAN;2020-06-19 04:09:13;Python;POSTECH-CVLab;2456;219;57;4;819
+2188;stanford_dl_ex;amaas/stanford_dl_ex;2013-09-24 22:52:39;;amaas;2449;1612;242;20;3278
+2189;deepvariant;google/deepvariant;2017-11-23 01:56:22;Python;google;2448;605;159;4;1758
+2190;Meta-Learning-Papers;floodsung/Meta-Learning-Papers;2017-05-07 03:08:42;;floodsung;2440;465;167;4;1958
+2191;ml-workspace;ml-tooling/ml-workspace;2019-05-27 16:55:15;Jupyter Notebook;ml-tooling;2438;338;64;7;1208
+2192;MUNIT;NVlabs/MUNIT;2018-03-30 21:56:14;Python;NVlabs;2434;468;77;57;1630
+2193;mmskeleton;open-mmlab/mmskeleton;2017-11-21 09:01:44;Python;open-mmlab;2432;903;72;181;1760
+2194;ml-glossary;bfortuner/ml-glossary;2017-04-20 16:05:19;Python;bfortuner;2431;627;118;18;1975
+2195;ranking;tensorflow/ranking;2018-12-03 20:48:57;Python;tensorflow;2421;419;93;55;1382
+2196;Semantic-Segmentation-Suite;GeorgeSeif/Semantic-Segmentation-Suite;2017-12-09 22:56:49;Python;GeorgeSeif;2409;871;109;83;1741
+2197;DouZero;kwai/DouZero;2021-06-02 01:55:56;Python;kwai;2400;328;39;4;471
+2198;simplified-deeplearning;exacity/simplified-deeplearning;2016-07-08 07:40:29;Jupyter Notebook;exacity;2399;816;239;1;2261
+2199;deepwalk;phanein/deepwalk;2014-08-23 03:38:20;Python;phanein;2398;804;88;39;2946
+2200;luminoth;tryolabs/luminoth;2017-02-16 15:07:46;Python;tryolabs;2390;410;132;60;2038
+2201;papers;aleju/papers;2016-02-19 22:44:27;;aleju;2381;443;271;5;2400
+2202;gluon-nlp;dmlc/gluon-nlp;2018-04-04 20:57:13;Python;dmlc;2380;526;103;260;1625
+2203;djl;deepjavalibrary/djl;2019-10-29 22:38:54;Java;deepjavalibrary;2375;382;77;101;1052
+2204;knockknock;huggingface/knockknock;2019-03-20 13:08:55;Python;huggingface;2374;207;58;28;1276
+2205;yolov3-tf2;zzh8829/yolov3-tf2;2019-04-03 17:57:49;Jupyter Notebook;zzh8829;2361;881;77;169;1261
+2206;Girls-In-AI;girls-in-ai/Girls-In-AI;2019-01-03 08:03:13;Jupyter Notebook;girls-in-ai;2358;428;177;23;1352
+2207;jittor;Jittor/jittor;2020-03-18 14:06:07;Python;Jittor;2352;237;62;113;912
+2208;MTBook;NiuTrans/MTBook;2020-05-01 07:45:20;TeX;NiuTrans;2344;798;180;0;868
+2209;OpenNMT;OpenNMT/OpenNMT;2016-10-24 16:09:20;Lua;OpenNMT;2342;475;154;47;2153
+2210;Deep-Reinforcement-Learning-Hands-On;PacktPublishing/Deep-Reinforcement-Learning-Hands-On;2018-03-16 03:57:42;Python;PacktPublishing;2341;1166;119;28;1645
+2211;TensorFlow-and-DeepLearning-Tutorial;CreatCodeBuild/TensorFlow-and-DeepLearning-Tutorial;2016-10-08 06:01:45;Python;CreatCodeBuild;2337;636;183;5;2169
+2212;deepdetect;jolibrain/deepdetect;2015-05-22 14:45:28;C++;jolibrain;2330;541;127;89;2674
+2213;captcha_break;ypwhs/captcha_break;2017-02-21 14:04:20;Jupyter Notebook;ypwhs;2323;651;80;47;2033
+2214;gluon-api;gluon-api/gluon-api;2017-10-06 19:08:15;Jupyter Notebook;gluon-api;2322;229;156;2;1805
+2215;satellite-image-deep-learning;robmarkcole/satellite-image-deep-learning;2018-04-16 08:42:09;;robmarkcole;2317;607;123;0;1614
+2216;awesome-deep-text-detection-recognition;hwalsuklee/awesome-deep-text-detection-recognition;2017-11-30 05:43:19;;hwalsuklee;2316;517;147;10;1751
+2217;pytorchvideo;facebookresearch/pytorchvideo;2021-03-09 20:39:13;Python;facebookresearch;2299;227;49;55;555
+2218;stellargraph;stellargraph/stellargraph;2018-04-13 07:35:51;Python;stellargraph;2296;347;60;279;1617
+2219;DQN-tensorflow;devsisters/DQN-tensorflow;2016-05-15 11:33:47;Python;devsisters;2295;755;138;38;2315
+2220;arXiv2020-RIFE;hzwer/arXiv2020-RIFE;2020-11-12 05:46:23;Python;hzwer;2295;250;61;27;673
+2221;code-of-learn-deep-learning-with-pytorch;L1aoXingyu/code-of-learn-deep-learning-with-pytorch;2017-06-20 04:00:25;Jupyter Notebook;L1aoXingyu;2293;1142;93;21;1914
+2222;awesome-hand-pose-estimation;xinghaochen/awesome-hand-pose-estimation;2017-03-22 15:52:31;Python;xinghaochen;2281;463;168;6;2004
+2223;Machine-Learning-with-Python;tirthajyoti/Machine-Learning-with-Python;2017-07-17 03:06:13;Jupyter Notebook;tirthajyoti;2276;1447;145;2;1887
+2224;weaviate;semi-technologies/weaviate;2016-03-30 15:03:17;Go;semi-technologies;2265;125;49;75;2361
+2225;pointnet2;charlesq34/pointnet2;2017-08-31 03:18:54;Python;charlesq34;2264;792;70;171;1842
+2226;TensorFlow.NET;SciSharp/TensorFlow.NET;2018-12-10 23:04:47;C#;SciSharp;2264;388;120;124;1375
+2227;decaNLP;salesforce/decaNLP;2018-06-20 06:19:43;Python;salesforce;2263;432;123;9;1549
+2228;texar;asyml/texar;2017-07-22 19:02:05;Python;asyml;2254;371;78;36;1881
+2229;awesome-deep-learning-music;ybayle/awesome-deep-learning-music;2017-08-15 17:36:33;TeX;ybayle;2251;325;146;4;1857
+2230;DeepInterests;Honlan/DeepInterests;2018-03-19 13:31:41;;Honlan;2247;436;92;0;1642
+2231;AI_Curriculum;Machine-Learning-Tokyo/AI_Curriculum;2020-02-24 23:59:44;;Machine-Learning-Tokyo;2241;377;155;2;934
+2232;NN-SVG;alexlenail/NN-SVG;2015-12-17 06:43:51;JavaScript;alexlenail;2238;311;33;18;2465
+2233;DeepLearningPython;MichalDanielDobrzanski/DeepLearningPython;2016-07-29 18:09:27;Python;MichalDanielDobrzanski;2228;1079;126;8;2239
+2234;tensorflow-deep-learning;mrdbourke/tensorflow-deep-learning;2020-11-23 23:11:42;Jupyter Notebook;mrdbourke;2224;945;104;5;661
+2235;tangent;google/tangent;2017-10-26 20:02:46;Python;google;2220;392;69;21;1785
+2236;edge-connect;knazeri/edge-connect;2018-12-16 02:14:19;Python;knazeri;2199;479;69;87;1370
+2237;forecasting;microsoft/forecasting;2019-02-06 18:42:18;Python;microsoft;2198;375;91;14;1317
+2238;DL4NLP;andrewt3000/DL4NLP;2015-10-16 18:06:47;;andrewt3000;2187;479;204;3;2526
+2239;awesome-ml-courses;luspr/awesome-ml-courses;2020-05-08 20:41:59;;luspr;2185;245;102;1;860
+2240;torchcv;donnyyou/torchcv;2018-10-19 03:38:47;Shell;donnyyou;2173;387;71;44;1428
+2241;self-driving-car;ndrplz/self-driving-car;2016-12-25 18:09:36;C++;ndrplz;2169;1242;140;8;2090
+2242;PerceptualSimilarity;richzhang/PerceptualSimilarity;2018-01-11 01:43:21;Python;richzhang;2166;371;47;21;1709
+2243;make-sense;SkalskiP/make-sense;2019-06-14 17:22:39;TypeScript;SkalskiP;2166;320;49;58;1189
+2244;mmocr;open-mmlab/mmocr;2021-04-07 13:40:21;Python;open-mmlab;2161;373;41;87;527
+2245;Informer2020;zhouhaoyi/Informer2020;2020-12-07 09:18:24;Python;zhouhaoyi;2160;490;25;15;648
+2246;DeepRL-Agents;awjuliani/DeepRL-Agents;2016-06-14 22:25:31;Jupyter Notebook;awjuliani;2158;823;117;45;2284
+2247;Best_AI_paper_2020;louisfb01/Best_AI_paper_2020;2020-12-20 17:27:00;;louisfb01;2157;241;82;0;634
+2248;machine_learning_complete;Nyandwi/machine_learning_complete;2021-09-25 11:02:35;Jupyter Notebook;Nyandwi;2155;245;42;0;356
+2249;awesome-data-labeling;heartexlabs/awesome-data-labeling;2019-06-19 02:03:37;;heartexlabs;2128;284;73;36;1185
+2250;pytorch-kaldi;mravanelli/pytorch-kaldi;2018-02-27 22:16:33;Python;mravanelli;2127;440;93;23;1661
+2251;tensorflow-speech-recognition;pannous/tensorflow-speech-recognition;2015-12-07 10:02:43;Python;pannous;2114;662;191;32;2475
+2252;coach;IntelLabs/coach;2017-10-01 19:27:43;Python;IntelLabs;2112;426;131;89;1810
+2253;zhusuan;thu-ml/zhusuan;2016-07-18 13:31:38;Python;thu-ml;2111;415;144;11;2251
+2254;jeelizFaceFilter;jeeliz/jeelizFaceFilter;2018-02-16 21:43:54;JavaScript;jeeliz;2110;449;87;2;1672
+2255;minimalRL;seungeunrho/minimalRL;2019-04-23 10:57:44;Python;seungeunrho;2104;326;48;18;1242
+2256;annotated_research_papers;AakashKumarNain/annotated_research_papers;2020-07-19 19:05:19;;AakashKumarNain;2102;218;188;1;788
+2257;maml;cbfinn/maml;2017-06-18 01:36:06;Python;cbfinn;2101;538;48;42;1916
+2258;TensorFlow-Tutorials;golbin/TensorFlow-Tutorials;2017-01-18 18:50:06;Python;golbin;2097;1049;248;24;2066
+2259;deep-reinforcement-learning-papers;junhyukoh/deep-reinforcement-learning-papers;2015-09-30 20:18:55;;junhyukoh;2094;563;247;3;2542
+2260;neural_prophet;ourownstory/neural_prophet;2020-05-04 05:12:43;Python;ourownstory;2087;265;49;88;865
+2261;awesome-human-pose-estimation;cbsudux/awesome-human-pose-estimation;2018-10-03 17:01:47;;cbsudux;2085;402;125;5;1443
+2262;awesome-image-classification;weiaicunzai/awesome-image-classification;2012-05-23 14:07:04;;weiaicunzai;2080;522;79;1;3768
+2263;deep-learning-with-keras-notebooks;erhwenkuo/deep-learning-with-keras-notebooks;2017-11-07 14:15:00;Jupyter Notebook;erhwenkuo;2079;684;126;2;1774
+2264;data-science-question-answer;ShuaiW/data-science-question-answer;2018-01-15 01:39:56;Jupyter Notebook;ShuaiW;2078;609;88;4;1705
+2265;DeblurGAN;KupynOrest/DeblurGAN;2017-04-26 14:08:11;Python;KupynOrest;2077;482;58;132;1969
+2266;ELF;facebookresearch/ELF;2017-06-06 00:07:35;C++;facebookresearch;2067;296;122;47;1928
+2267;text-to-image;paarthneekhara/text-to-image;2016-08-16 20:12:54;Python;paarthneekhara;2063;392;82;46;2221
+2268;kcws;koth/kcws;2016-11-25 00:17:50;C++;koth;2059;670;170;44;2121
+2269;deepframeworks;zer0n/deepframeworks;2015-11-11 23:44:43;;zer0n;2058;315;203;17;2500
+2270;zi2zi;kaonashi-tyc/zi2zi;2017-02-17 23:18:04;Python;kaonashi-tyc;2056;444;68;51;2036
+2271;AlphaTree-graphic-deep-neural-network;weslynn/AlphaTree-graphic-deep-neural-network;2018-03-06 08:37:27;;weslynn;2045;523;124;6;1655
+2272;Neural-Photo-Editor;ajbrock/Neural-Photo-Editor;2016-09-21 14:53:36;Python;ajbrock;2042;202;80;8;2186
+2273;ICCV2019-LearningToPaint;megvii-research/ICCV2019-LearningToPaint;2019-03-11 03:56:03;Python;megvii-research;2041;294;48;4;1285
+2274;Deep-Learning-with-PyTorch-Tutorials;dragen1860/Deep-Learning-with-PyTorch-Tutorials;2018-11-26 04:21:46;Python;dragen1860;2040;1079;64;5;1390
+2275;sru;asappresearch/sru;2017-08-28 20:37:41;Python;asappresearch;2033;304;68;58;1844
+2276;Deep-reinforcement-learning-with-pytorch;sweetice/Deep-reinforcement-learning-with-pytorch;2018-06-09 01:43:02;Python;sweetice;2025;568;33;21;1560
+2277;PyTorch-NLP;PetrochukM/PyTorch-NLP;2018-02-25 05:00:36;Python;PetrochukM;2025;250;57;23;1664
+2278;spektral;danielegrattarola/spektral;2019-01-17 11:19:10;Python;danielegrattarola;2012;276;47;39;1338
+2279;dl-setup;floydhub/dl-setup;2016-05-02 23:54:24;;floydhub;2002;330;112;7;2327
+2280;AutonomousDrivingCookbook;microsoft/AutonomousDrivingCookbook;2017-11-30 20:51:02;Jupyter Notebook;microsoft;1975;516;131;32;1750
+2281;Deep-Learning-for-Tracking-and-Detection;abhineet123/Deep-Learning-for-Tracking-and-Detection;2017-05-12 19:39:38;Shell;abhineet123;1973;589;151;5;1952
+2282;electra;google-research/electra;2020-03-10 03:42:50;Python;google-research;1972;301;57;54;920
+2283;muzic;microsoft/muzic;2021-06-03 10:06:54;Python;microsoft;1966;122;45;10;470
+2284;efficientnet;qubvel/efficientnet;2019-05-30 20:21:09;Python;qubvel;1945;445;37;60;1204
+2285;turkce-yapay-zeka-kaynaklari;deeplearningturkiye/turkce-yapay-zeka-kaynaklari;2017-10-17 20:19:31;;deeplearningturkiye;1943;394;401;9;1794
+2286;InvoiceNet;naiveHobo/InvoiceNet;2018-07-01 11:25:57;Python;naiveHobo;1934;305;71;54;1538
+2287;awesome-community-detection;benedekrozemberczki/awesome-community-detection;2018-10-10 15:17:30;Python;benedekrozemberczki;1924;324;110;2;1437
+2288;keras-applications;keras-team/keras-applications;2018-06-01 19:00:18;Python;keras-team;1920;909;79;60;1567
+2289;awesome-anomaly-detection;hoya012/awesome-anomaly-detection;2018-08-29 06:33:25;;hoya012;1918;442;126;5;1479
+2290;mt-dnn;namisan/mt-dnn;2019-02-19 22:58:26;Python;namisan;1917;380;60;12;1304
+2291;spark-deep-learning;databricks/spark-deep-learning;2017-05-31 17:30:28;Python;databricks;1907;494;151;85;1933
+2292;DeepReinforcementLearning;AppliedDataSciencePartners/DeepReinforcementLearning;2018-01-25 13:59:47;Jupyter Notebook;AppliedDataSciencePartners;1905;746;106;34;1695
+2293;practical-machine-learning-with-python;dipanjanS/practical-machine-learning-with-python;2017-07-29 10:31:36;Jupyter Notebook;dipanjanS;1894;1541;165;14;1875
+2294;Awesome-AutoDL;D-X-Y/Awesome-AutoDL;2018-10-15 08:16:21;Python;D-X-Y;1881;293;112;1;1432
+2295;PyTorch-Encoding;zhanghang1989/PyTorch-Encoding;2017-05-12 18:04:54;Python;zhanghang1989;1879;431;43;140;1952
+2296;Objectron;google-research-datasets/Objectron;2020-10-19 21:58:41;Jupyter Notebook;google-research-datasets;1878;231;68;16;696
+2297;onnx-tensorrt;onnx/onnx-tensorrt;2018-04-30 18:11:09;C++;onnx;1871;426;58;133;1599
+2298;ICCV2021-Paper-Code-Interpretation;extreme-assistant/ICCV2021-Paper-Code-Interpretation;2019-04-01 04:19:27;;extreme-assistant;1870;962;65;8;1264
+2299;tensorflow_template_application;tobegit3hub/tensorflow_template_application;2016-07-18 10:54:20;Python;tobegit3hub;1856;734;189;18;2251
+2300;tf2_course;ageron/tf2_course;2019-01-06 01:38:21;Jupyter Notebook;ageron;1840;502;97;4;1349
+2301;ml-road;yanshengjia/ml-road;2017-10-31 04:36:37;Python;yanshengjia;1838;785;108;3;1781
+2302;benchm-ml;szilard/benchm-ml;2015-03-28 00:34:18;R;szilard;1833;337;151;10;2729
+2303;reproducible-image-denoising-state-of-the-art;wenbihan/reproducible-image-denoising-state-of-the-art;2017-12-30 21:22:07;;wenbihan;1832;458;113;4;1720
+2304;UNIT;mingyuliutw/UNIT;2017-03-06 05:47:36;Python;mingyuliutw;1831;351;59;3;2020
+2305;fold;tensorflow/fold;2017-01-18 17:45:53;Python;tensorflow;1822;279;101;58;2066
+2306;AI-Blocks;MrNothing/AI-Blocks;2017-10-16 10:51:25;JavaScript;MrNothing;1821;239;103;6;1796
+2307;tinyflow;tqchen/tinyflow;2016-09-09 00:04:31;C++;tqchen;1820;359;86;2;2198
+2308;Resemblyzer;resemble-ai/Resemblyzer;2019-08-15 16:39:51;Python;resemble-ai;1816;333;62;25;1128
+2309;tf_unet;jakeret/tf_unet;2016-08-12 08:02:22;Python;jakeret;1812;772;68;91;2226
+2310;ScaledYOLOv4;WongKinYiu/ScaledYOLOv4;2020-11-14 03:01:11;Python;WongKinYiu;1802;492;45;278;671
+2311;DeepLearningImplementations;tdeboissiere/DeepLearningImplementations;2016-09-10 10:45:07;Python;tdeboissiere;1800;684;134;25;2197
+2312;ml-surveys;eugeneyan/ml-surveys;2020-08-08 01:35:06;;eugeneyan;1796;210;112;0;769
+2313;www.mlcompendium.com;orico/www.mlcompendium.com;2021-08-09 03:50:41;;orico;1796;199;40;1;403
+2314;awesome-explainable-graph-reasoning;AstraZeneca/awesome-explainable-graph-reasoning;2021-06-07 09:23:43;;AstraZeneca;1790;122;49;1;466
+2315;deepschool.io;sachinruk/deepschool.io;2016-12-04 11:10:09;Jupyter Notebook;sachinruk;1785;526;132;8;2112
+2316;ssd_keras;pierluigiferrari/ssd_keras;2017-04-02 16:20:32;Python;pierluigiferrari;1783;934;54;21;1993
+2317;FLAML;microsoft/FLAML;2020-08-20 20:46:11;Python;microsoft;1773;234;39;28;756
+2318;dm-haiku;deepmind/dm-haiku;2020-02-18 07:14:02;Python;deepmind;1767;137;35;40;941
+2319;DeepCTR-Torch;shenweichen/DeepCTR-Torch;2019-09-06 13:00:06;Python;shenweichen;1762;470;40;30;1106
+2320;pytorch-forecasting;jdb78/pytorch-forecasting;2020-07-03 13:05:24;Python;jdb78;1762;272;31;169;805
+2321;DeepMimic;xbpeng/DeepMimic;2018-10-14 22:20:58;C++;xbpeng;1761;402;106;83;1432
+2322;DeepLearningForNLPInPytorch;rguthrie3/DeepLearningForNLPInPytorch;2017-03-04 18:50:58;Jupyter Notebook;rguthrie3;1758;435;98;7;2021
+2323;big-sleep;lucidrains/big-sleep;2021-01-18 19:35:36;Python;lucidrains;1758;176;36;52;605
+2324;aws-machine-learning-university-accelerated-nlp;aws-samples/aws-machine-learning-university-accelerated-nlp;2020-08-07 00:40:22;Jupyter Notebook;aws-samples;1751;441;156;0;770
+2325;GANimation;albertpumarola/GANimation;2018-07-23 16:39:34;Python;albertpumarola;1748;396;77;43;1516
+2326;torchsample;ncullen93/torchsample;2017-03-01 02:42:12;Python;ncullen93;1743;295;59;57;2025
+2327;txtai;neuml/txtai;2020-08-09 19:14:59;Python;neuml;1743;170;39;0;767
+2328;mmaction2;open-mmlab/mmaction2;2020-07-11 07:19:10;Python;open-mmlab;1742;557;41;47;797
+2329;lanenet-lane-detection;MaybeShewill-CV/lanenet-lane-detection;2018-05-29 02:22:10;Python;MaybeShewill-CV;1740;784;55;11;1571
+2330;tensorflow-1.4-billion-password-analysis;philipperemy/tensorflow-1.4-billion-password-analysis;2017-12-14 09:02:08;Python;philipperemy;1739;386;102;8;1737
+2331;Bender;xmartlabs/Bender;2017-05-03 20:52:12;Swift;xmartlabs;1735;90;57;19;1961
+2332;DeepLearn;GauravBh1010tt/DeepLearn;2017-05-20 09:46:28;Python;GauravBh1010tt;1732;372;113;14;1945
+2333;tsai;timeseriesAI/tsai;2019-09-30 09:18:31;Jupyter Notebook;timeseriesAI;1724;255;37;19;1082
+2334;cracking-the-data-science-interview;khanhnamle1994/cracking-the-data-science-interview;2018-08-09 07:57:57;Jupyter Notebook;khanhnamle1994;1723;533;50;1;1499
+2335;From-0-to-Research-Scientist-resources-guide;ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide;2021-03-16 07:52:23;;ahmedbahaaeldin;1720;290;89;2;549
+2336;torch-points3d;torch-points3d/torch-points3d;2019-12-06 11:33:34;Python;torch-points3d;1719;281;54;105;1015
+2337;benchmarking-gnns;graphdeeplearning/benchmarking-gnns;2020-03-03 03:42:50;Jupyter Notebook;graphdeeplearning;1719;317;52;2;927
+2338;zenml;zenml-io/zenml;2020-11-19 09:25:46;Python;zenml-io;1717;116;29;15;666
+2339;deeplearning-biology;hussius/deeplearning-biology;2016-06-01 20:44:31;;hussius;1716;447;229;1;2297
+2340;simulator;lgsvl/simulator;2018-07-02 22:07:26;C#;lgsvl;1713;559;85;541;1536
+2341;ElegantRL;AI4Finance-Foundation/ElegantRL;2019-07-12 03:18:05;Python;AI4Finance-Foundation;1710;361;36;25;1162
+2342;fast-wavenet;tomlepaine/fast-wavenet;2016-09-16 21:57:30;Python;tomlepaine;1710;316;100;15;2190
+2343;awesome-autonomous-vehicles;manfreddiaz/awesome-autonomous-vehicles;2016-12-09 20:07:33;;manfreddiaz;1706;526;167;2;2106
+2344;gandissect;CSAILVision/gandissect;2018-11-19 14:16:08;Python;CSAILVision;1706;282;77;13;1397
+2345;Awesome-Interview;Awesome-Interview/Awesome-Interview;2019-03-27 13:18:08;;Awesome-Interview;1703;322;65;1;1269
+2346;keras-yolo2;experiencor/keras-yolo2;2017-03-22 15:08:29;Jupyter Notebook;experiencor;1698;791;67;203;2004
+2347;DeepRL;NeuronDance/DeepRL;2019-02-22 08:21:56;;NeuronDance;1694;492;89;5;1302
+2348;deepLearningBook-Notes;hadrienj/deepLearningBook-Notes;2017-09-24 15:33:37;Jupyter Notebook;hadrienj;1691;555;120;0;1818
+2349;SparrowRecSys;wzhe06/SparrowRecSys;2020-05-05 05:03:23;Python;wzhe06;1691;616;51;23;864
+2350;SfMLearner;tinghuiz/SfMLearner;2017-04-25 16:38:21;Jupyter Notebook;tinghuiz;1689;529;79;41;1970
+2351;awesome-deepbio;gokceneraslan/awesome-deepbio;2016-01-20 10:22:16;;gokceneraslan;1683;312;181;4;2431
+2352;muzero-general;werner-duvaud/muzero-general;2019-12-27 02:33:51;Python;werner-duvaud;1675;430;73;43;994
+2353;Awesome-Graph-Neural-Networks;GRAND-Lab/Awesome-Graph-Neural-Networks;2018-12-31 04:36:11;;GRAND-Lab;1674;340;81;6;1355
+2354;lip-reading-deeplearning;astorfi/lip-reading-deeplearning;2017-06-20 22:05:34;Python;astorfi;1661;309;55;4;1913
+2355;Awesome-Knowledge-Distillation;FLHonker/Awesome-Knowledge-Distillation;2019-10-17 07:53:59;;FLHonker;1656;268;55;1;1065
+2356;AIF360;Trusted-AI/AIF360;2018-08-22 20:47:15;Python;Trusted-AI;1655;534;87;77;1485
+2357;DeepLearningFrameworks;ilkarman/DeepLearningFrameworks;2017-08-30 13:53:45;Jupyter Notebook;ilkarman;1654;366;83;6;1843
+2358;SuperGluePretrainedNetwork;magicleap/SuperGluePretrainedNetwork;2020-03-17 19:32:12;Python;magicleap;1652;376;55;20;912
+2359;determined;determined-ai/determined;2020-04-07 16:12:29;Python;determined-ai;1651;205;44;68;892
+2360;Data-science-best-resources;tirthajyoti/Data-science-best-resources;2018-12-27 03:51:46;;tirthajyoti;1650;662;101;0;1359
+2361;DeepLearning;wangshusen/DeepLearning;2019-04-09 20:53:42;TeX;wangshusen;1648;435;53;13;1255
+2362;PyTorchNLPBook;joosthub/PyTorchNLPBook;2019-01-24 01:18:13;Jupyter Notebook;joosthub;1645;702;54;21;1331
+2363;grobid;kermitt2/grobid;2012-09-13 15:48:54;Java;kermitt2;1643;317;82;344;3655
+2364;RecBole;RUCAIBox/RecBole;2020-06-11 15:18:11;Python;RUCAIBox;1642;297;32;34;827
+2365;nnvm;dmlc/nnvm;2016-06-23 03:57:02;C++;dmlc;1640;293;143;1;2276
+2366;Papers-Literature-ML-DL-RL-AI;tirthajyoti/Papers-Literature-ML-DL-RL-AI;2018-01-16 06:25:18;;tirthajyoti;1638;590;123;0;1704
+2367;pytorch-fid;mseitzer/pytorch-fid;2018-02-10 12:33:06;Python;mseitzer;1633;345;9;13;1679
+2368;quiver;keplr-io/quiver;2016-11-13 22:35:44;JavaScript;keplr-io;1631;218;62;34;2132
+2369;Gen.jl;probcomp/Gen.jl;2018-08-21 21:42:42;Julia;probcomp;1626;145;76;164;1486
+2370;keras_to_tensorflow;amir-abdi/keras_to_tensorflow;2017-05-10 04:43:29;Python;amir-abdi;1624;534;49;61;1955
+2371;bulbea;achillesrasquinha/bulbea;2017-03-09 06:11:06;Python;achillesrasquinha;1623;440;127;34;2017
+2372;NLP-Models-Tensorflow;huseinzol05/NLP-Models-Tensorflow;2018-04-23 12:04:17;Jupyter Notebook;huseinzol05;1619;699;92;7;1607
+2373;labelbox;Labelbox/labelbox;2018-01-07 06:26:16;JavaScript;Labelbox;1607;244;64;33;1713
+2374;DeepLearning_tutorials;xiaohu2015/DeepLearning_tutorials;2016-12-15 14:40:02;Jupyter Notebook;xiaohu2015;1606;760;76;9;2101
+2375;fma;mdeff/fma;2016-12-02 15:27:37;Jupyter Notebook;mdeff;1600;360;58;12;2114
+2376;TensorFlow2.0-Examples;YunYang1994/TensorFlow2.0-Examples;2019-03-07 15:17:05;Jupyter Notebook;YunYang1994;1599;682;57;96;1289
+2377;pytorch-semantic-segmentation;zijundeng/pytorch-semantic-segmentation;2017-06-02 06:45:33;Python;zijundeng;1598;395;39;49;1932
+2378;DeepRecommender;NVIDIA/DeepRecommender;2017-09-08 20:48:44;Python;NVIDIA;1597;336;74;11;1833
+2379;NeuroNER;Franck-Dernoncourt/NeuroNER;2017-03-07 01:24:15;Python;Franck-Dernoncourt;1596;477;84;87;2019
+2380;GPflow;GPflow/GPflow;2016-01-14 11:29:24;Python;GPflow;1595;415;78;127;2437
+2381;koila;rentruewang/koila;2021-11-17 08:37:36;Python;rentruewang;1589;54;10;9;303
+2382;universal-data-tool;UniversalDataTool/universal-data-tool;2019-07-11 18:00:15;JavaScript;UniversalDataTool;1588;170;36;171;1162
+2383;CodeSearchNet;github/CodeSearchNet;2019-02-28 17:22:54;Jupyter Notebook;github;1584;308;53;7;1295
+2384;MobileNet-Yolo;dog-qiuqiu/MobileNet-Yolo;2020-06-17 05:13:42;C;dog-qiuqiu;1580;250;34;25;821
+2385;Interactive_Tools;Machine-Learning-Tokyo/Interactive_Tools;2019-04-29 23:24:38;;Machine-Learning-Tokyo;1575;194;68;1;1235
+2386;ganspace;harskish/ganspace;2020-04-02 10:13:08;Jupyter Notebook;harskish;1573;203;43;17;897
+2387;auto_ml;ClimbsRocks/auto_ml;2016-08-07 21:35:08;Python;ClimbsRocks;1564;306;95;187;2230
+2388;Introduction-NLP;NLP-LOVE/Introduction-NLP;2020-02-03 06:28:31;Python;NLP-LOVE;1563;441;35;7;956
+2389;deep-rl-tensorflow;carpedm20/deep-rl-tensorflow;2016-06-10 15:19:30;Python;carpedm20;1561;406;98;20;2289
+2390;requests-for-research;openai/requests-for-research;2016-06-07 06:20:19;HTML;openai;1559;605;330;12;2292
+2391;keras-yolo3;experiencor/keras-yolo3;2018-04-08 09:18:10;Python;experiencor;1555;869;57;233;1622
+2392;deeptraffic;lexfridman/deeptraffic;2018-01-06 01:24:42;JavaScript;lexfridman;1552;242;60;5;1714
+2393;Awesome-System-for-Machine-Learning;HuaizhengZhang/Awesome-System-for-Machine-Learning;2019-01-07 12:59:19;;HuaizhengZhang;1551;219;100;12;1348
+2394;cutlass;NVIDIA/cutlass;2017-11-30 00:11:24;C++;NVIDIA;1548;286;75;27;1751
+2395;CoreML-in-ARKit;hanleyweng/CoreML-in-ARKit;2017-07-14 08:33:22;Swift;hanleyweng;1544;208;57;8;1890
+2396;keras-contrib;keras-team/keras-contrib;2017-01-25 02:26:49;Python;keras-team;1541;658;83;188;2060
+2397;BerryNet;DT42/BerryNet;2017-04-27 16:49:40;Python;DT42;1540;236;106;16;1968
+2398;ML;RubixML/ML;2018-02-14 07:20:19;PHP;RubixML;1536;117;50;33;1675
+2399;raster-vision;azavea/raster-vision;2017-02-02 14:31:54;Python;azavea;1535;319;81;110;2052
+2400;Awesome-pytorch-list-CNVersion;xavier-zy/Awesome-pytorch-list-CNVersion;2019-09-04 07:39:42;Jupyter Notebook;xavier-zy;1535;395;63;0;1108
+2401;HyperLandmark;szad670401/HyperLandmark;2018-07-03 09:00:05;C++;szad670401;1533;523;94;30;1536
+2402;pytorch-fcn;wkentaro/pytorch-fcn;2017-02-16 18:55:08;Python;wkentaro;1531;454;27;19;2037
+2403;elephas;maxpumperla/elephas;2015-08-13 12:09:19;Python;maxpumperla;1530;296;104;17;2591
+2404;pytorch-GAT;gordicaleksa/pytorch-GAT;2020-12-26 09:54:52;Jupyter Notebook;gordicaleksa;1528;186;41;10;629
+2405;Applied-Deep-Learning;maziarraissi/Applied-Deep-Learning;2021-05-07 06:53:29;;maziarraissi;1526;287;55;0;497
+2406;deep-learning-time-series;Alro10/deep-learning-time-series;2019-08-22 13:39:58;Jupyter Notebook;Alro10;1523;364;71;5;1121
+2407;image-quality-assessment;idealo/image-quality-assessment;2018-06-12 14:46:09;Python;idealo;1517;382;48;35;1557
+2408;dl_tutorials;sjchoi86/dl_tutorials;2016-06-15 01:29:18;;sjchoi86;1516;411;131;1;2284
+2409;cakechat;lukalabs/cakechat;2018-01-30 18:02:58;Python;lukalabs;1508;576;136;1;1689
+2410;DeepIE;loujie0822/DeepIE;2020-01-07 09:51:24;Python;loujie0822;1506;313;50;18;983
+2411;talos;autonomio/talos;2018-05-04 20:36:41;Python;autonomio;1501;255;28;30;1595
+2412;RLTrader;notadamking/RLTrader;2019-04-27 18:35:15;Python;notadamking;1500;513;128;42;1237
+2413;MinkowskiEngine;NVIDIA/MinkowskiEngine;2019-04-04 01:52:33;Python;NVIDIA;1500;213;37;92;1261
+2414;lambda-networks;lucidrains/lambda-networks;2020-10-08 19:01:15;Python;lucidrains;1496;154;46;12;707
+2415;coco-annotator;jsbroks/coco-annotator;2018-09-03 21:38:31;Vue;jsbroks;1495;351;43;187;1473
+2416;delta;Delta-ML/delta;2019-05-29 08:33:57;Python;Delta-ML;1494;294;67;3;1206
+2417;tch-rs;LaurentMazare/tch-rs;2019-02-16 21:08:44;Rust;LaurentMazare;1494;126;32;76;1307
+2418;ABigSurvey;NiuTrans/ABigSurvey;2020-07-17 05:57:36;;NiuTrans;1494;199;90;2;791
+2419;Text_Classification;kk7nc/Text_Classification;2018-07-06 00:10:18;Python;kk7nc;1493;486;73;1;1533
+2420;Deep-Learning-Coursera;enggen/Deep-Learning-Coursera;2017-10-21 14:59:57;Jupyter Notebook;enggen;1490;1313;83;16;1791
+2421;sphereface;wy1iu/sphereface;2017-07-19 16:46:26;Jupyter Notebook;wy1iu;1490;557;110;80;1885
+2422;CRNN_Chinese_Characters_Rec;Sierkinhane/CRNN_Chinese_Characters_Rec;2018-09-26 10:26:32;Python;Sierkinhane;1486;488;36;70;1451
+2423;lightly;lightly-ai/lightly;2020-10-13 13:02:56;Python;lightly-ai;1483;105;24;70;703
+2424;Awesome-Deep-Learning-Resources;guillaume-chevalier/Awesome-Deep-Learning-Resources;2016-11-27 17:41:38;;guillaume-chevalier;1481;291;126;11;2118
+2425;CADL;pkmital/CADL;2016-07-06 22:07:55;Jupyter Notebook;pkmital;1480;748;123;23;2262
+2426;chainercv;chainer/chainercv;2017-02-13 04:15:10;Python;chainer;1473;317;74;58;2041
+2427;DeepFace;RiweiChen/DeepFace;2015-11-12 13:42:57;Python;RiweiChen;1471;634;135;15;2500
+2428;FARM;deepset-ai/FARM;2019-07-17 14:51:12;Python;deepset-ai;1471;215;54;5;1157
+2429;sod;symisc/sod;2018-04-10 23:51:01;C;symisc;1469;192;86;3;1619
+2430;Top-Deep-Learning;mbadry1/Top-Deep-Learning;2018-03-16 00:57:51;Python;mbadry1;1456;406;131;3;1645
+2431;GDLnotes;ahangchen/GDLnotes;2016-05-08 07:45:57;Python;ahangchen;1456;495;146;7;2322
+2432;addons;tensorflow/addons;2018-11-26 23:57:17;Python;tensorflow;1456;544;56;238;1389
+2433;tensorflow-mnist-tutorial;martin-gorner/tensorflow-mnist-tutorial;2016-05-09 09:22:35;;martin-gorner;1455;678;140;0;2321
+2434;Getting-Things-Done-with-Pytorch;curiousily/Getting-Things-Done-with-Pytorch;2020-01-31 08:02:53;Jupyter Notebook;curiousily;1453;435;41;16;959
+2435;fast-autoaugment;kakaobrain/fast-autoaugment;2019-05-01 14:03:49;Python;kakaobrain;1453;192;41;26;1234
+2436;RoseTTAFold;RosettaCommons/RoseTTAFold;2021-06-29 21:14:40;Python;RosettaCommons;1449;334;52;67;443
+2437;PGPortfolio;ZhengyaoJiang/PGPortfolio;2017-11-12 16:08:44;Python;ZhengyaoJiang;1448;680;130;51;1769
+2438;OctoBot;Drakkar-Software/OctoBot;2018-02-23 23:13:05;Python;Drakkar-Software;1448;405;98;73;1665
+2439;darknet_ros;leggedrobotics/darknet_ros;2017-03-31 17:25:58;C++;leggedrobotics;1446;924;47;120;1994
+2440;neural_collaborative_filtering;hexiangnan/neural_collaborative_filtering;2017-02-02 02:55:58;Python;hexiangnan;1442;595;32;49;2052
+2441;seldon-server;SeldonIO/seldon-server;2015-02-11 13:49:35;Java;SeldonIO;1441;307;136;23;2774
+2442;anago;Hironsan/anago;2017-06-26 21:28:36;Python;Hironsan;1435;376;66;44;1907
+2443;voxelmorph;voxelmorph/voxelmorph;2018-05-14 16:19:41;Python;voxelmorph;1435;439;49;54;1586
+2444;OpenSeq2Seq;NVIDIA/OpenSeq2Seq;2017-09-08 20:53:07;Python;NVIDIA;1433;358;92;87;1833
+2445;DPED;aiff22/DPED;2017-08-23 17:28:27;Python;aiff22;1429;346;66;3;1849
+2446;pytorch-generative-adversarial-networks;devnag/pytorch-generative-adversarial-networks;2017-02-11 01:15:16;Python;devnag;1424;465;51;3;2043
+2447;x-transformers;lucidrains/x-transformers;2020-10-24 22:13:25;Python;lucidrains;1424;112;35;19;691
+2448;Hierarchical-Localization;cvg/Hierarchical-Localization;2020-07-16 07:25:35;Python;cvg;1424;257;72;14;792
+2449;MAgent;geek-ai/MAgent;2017-11-06 10:09:14;Python;geek-ai;1423;300;69;27;1775
+2450;Algorithm_Interview_Notes-Chinese;DarLiner/Algorithm_Interview_Notes-Chinese;2018-12-04 04:01:44;Python;DarLiner;1422;436;31;3;1382
+2451;awesome-mlss;sshkhr/awesome-mlss;2018-12-01 06:34:35;;sshkhr;1419;181;210;14;1385
+2452;Hands-on-Machine-Learning;DeqianBai/Hands-on-Machine-Learning;2018-10-18 06:40:16;Jupyter Notebook;DeqianBai;1417;437;72;5;1429
+2453;iOS_ML;alexsosn/iOS_ML;2015-08-18 08:44:46;;alexsosn;1412;163;97;2;2586
+2454;lightweight-human-pose-estimation.pytorch;Daniil-Osokin/lightweight-human-pose-estimation.pytorch;2019-03-02 20:57:11;Python;Daniil-Osokin;1412;366;30;1;1293
+2455;keras-tcn;philipperemy/keras-tcn;2018-03-22 02:40:06;Python;philipperemy;1406;388;44;6;1639
+2456;transfer-learning-conv-ai;huggingface/transfer-learning-conv-ai;2019-05-07 12:51:08;Python;huggingface;1406;367;70;56;1228
+2457;uTensor;uTensor/uTensor;2017-09-21 17:04:59;C++;uTensor;1406;197;100;55;1820
+2458;NeuronBlocks;microsoft/NeuronBlocks;2019-04-15 01:01:24;Python;microsoft;1405;194;65;7;1250
+2459;pointnet.pytorch;fxia22/pointnet.pytorch;2017-04-14 23:05:17;Python;fxia22;1403;488;25;45;1980
+2460;Anime2Sketch;Mukosame/Anime2Sketch;2021-04-09 00:26:49;Python;Mukosame;1403;102;21;4;525
+2461;KAIR;cszn/KAIR;2019-12-15 19:42:25;Python;cszn;1400;339;38;44;1005
+2462;lightning-flash;PyTorchLightning/lightning-flash;2021-01-28 18:47:16;Python;PyTorchLightning;1399;151;33;43;595
+2463;efficient_densenet_pytorch;gpleiss/efficient_densenet_pytorch;2017-05-31 17:19:25;Python;gpleiss;1395;322;42;10;1933
+2464;nlp_paper_summaries;dair-ai/nlp_paper_summaries;2020-03-03 13:20:30;;dair-ai;1389;238;91;14;927
+2465;CS231n-2017-Summary;mbadry1/CS231n-2017-Summary;2017-12-05 14:45:20;Python;mbadry1;1387;451;37;2;1746
+2466;tensorflow-onnx;onnx/tensorflow-onnx;2018-03-13 18:39:56;Jupyter Notebook;onnx;1384;319;50;91;1647
+2467;AndroidTensorFlowMachineLearningExample;MindorksOpenSource/AndroidTensorFlowMachineLearningExample;2017-03-06 04:34:38;Java;MindorksOpenSource;1384;434;82;13;2020
+2468;Awesome-Quant-Machine-Learning-Trading;grananqvist/Awesome-Quant-Machine-Learning-Trading;2018-11-05 21:09:06;;grananqvist;1382;402;121;1;1410
+2469;Deep-Learning-for-Medical-Applications;albarqouni/Deep-Learning-for-Medical-Applications;2017-03-11 12:28:04;TeX;albarqouni;1378;494;147;1;2015
+2470;deeplearning-mindmap;dformoso/deeplearning-mindmap;2017-08-18 03:24:56;;dformoso;1378;322;88;4;1855
+2471;h2o-tutorials;h2oai/h2o-tutorials;2015-08-05 20:26:22;Jupyter Notebook;h2oai;1378;1018;269;42;2598
+2472;grenade;HuwCampbell/grenade;2016-06-23 12:04:52;Haskell;HuwCampbell;1377;83;61;22;2276
+2473;mlreef;MLReef/mlreef;2020-07-20 09:45:29;Kotlin;MLReef;1377;319;110;0;788
+2474;pytorch_geometric_temporal;benedekrozemberczki/pytorch_geometric_temporal;2020-06-27 01:11:33;Python;benedekrozemberczki;1377;201;38;4;811
+2475;deepcluster;facebookresearch/deepcluster;2018-08-09 14:06:54;Python;facebookresearch;1376;284;34;4;1499
+2476;votenet;facebookresearch/votenet;2019-08-17 01:31:24;Python;facebookresearch;1374;323;38;73;1126
+2477;machine-learning;teddylee777/machine-learning;2018-09-02 05:55:25;Jupyter Notebook;teddylee777;1371;519;47;1;1475
+2478;petastorm;uber/petastorm;2018-06-15 23:15:29;Python;uber;1368;237;41;141;1553
+2479;tnt;pytorch/tnt;2016-12-10 11:49:58;Python;pytorch;1364;196;45;31;2106
+2480;DeepAA;OsciiArt/DeepAA;2017-03-05 11:18:43;Python;OsciiArt;1361;98;37;2;2021
+2481;TorchCraft;TorchCraft/TorchCraft;2016-12-03 00:04:58;C++;TorchCraft;1358;209;95;32;2113
+2482;Transfer-Learning-Library;thuml/Transfer-Learning-Library;2020-02-14 11:33:06;Python;thuml;1358;276;40;1;945
+2483;Neural-Networks-on-Silicon;fengbintu/Neural-Networks-on-Silicon;2016-01-25 13:31:31;;fengbintu;1357;336;272;0;2426
+2484;ngraph;NervanaSystems/ngraph;2017-07-25 02:02:38;C++;NervanaSystems;1352;236;132;2;1879
+2485;deeppy;andersbll/deeppy;2014-09-18 06:18:36;Python;andersbll;1351;320;143;22;2920
+2486;SimpleHTR;githubharald/SimpleHTR;2018-06-13 13:30:25;Python;githubharald;1350;678;52;1;1556
+2487;Deep-Image-Analogy;msracver/Deep-Image-Analogy;2017-05-22 08:12:36;C++;msracver;1341;237;60;22;1943
+2488;AutoDL-Projects;D-X-Y/AutoDL-Projects;2019-01-31 14:30:50;Python;D-X-Y;1340;263;45;5;1324
+2489;deepnlp;rockingdingo/deepnlp;2016-10-27 07:49:05;Python;rockingdingo;1337;738;135;44;2150
+2490;Knet.jl;denizyuret/Knet.jl;2015-09-29 23:42:37;Jupyter Notebook;denizyuret;1334;235;83;151;2543
+2491;keras-resnet;raghakot/keras-resnet;2016-04-18 02:43:11;Python;raghakot;1332;606;51;25;2342
+2492;ViZDoom;mwydmuch/ViZDoom;2015-06-26 18:38:23;C++;mwydmuch;1332;333;51;82;2638
+2493;DeepMoji;bfelbo/DeepMoji;2017-07-18 11:42:33;Python;bfelbo;1331;308;52;9;1886
+2494;MedicalNet;Tencent/MedicalNet;2019-07-17 09:53:10;Python;Tencent;1331;351;66;52;1157
+2495;frustum-pointnets;charlesq34/frustum-pointnets;2018-04-05 16:56:45;Python;charlesq34;1328;508;45;78;1625
+2496;rethinking-network-pruning;Eric-mingjie/rethinking-network-pruning;2018-10-11 04:03:00;Python;Eric-mingjie;1326;290;34;21;1436
+2497;BicycleGAN;junyanz/BicycleGAN;2017-11-14 04:12:01;Python;junyanz;1326;245;47;15;1767
+2498;deep-learning-notes;kmkolasinski/deep-learning-notes;2017-11-19 10:24:52;Jupyter Notebook;kmkolasinski;1325;264;61;4;1762
+2499;vvedenie-mashinnoe-obuchenie;demidovakatya/vvedenie-mashinnoe-obuchenie;2016-01-28 23:10:50;;demidovakatya;1325;334;189;7;2422
+2500;age-gender-estimation;yu4u/age-gender-estimation;2017-04-09 16:53:46;Jupyter Notebook;yu4u;1321;499;41;83;1986
+2501;mean-teacher;CuriousAI/mean-teacher;2017-05-15 09:29:00;Python;CuriousAI;1319;304;60;34;1950
+2502;dlcv_for_beginners;frombeijingwithlove/dlcv_for_beginners;2016-12-22 01:54:49;Python;frombeijingwithlove;1319;640;92;31;2094
+2503;Deep-Trading;Rachnog/Deep-Trading;2016-06-18 18:23:06;OpenEdge ABL;Rachnog;1318;690;196;14;2280
+2504;distribution-is-all-you-need;graykode/distribution-is-all-you-need;2019-09-06 04:35:53;Python;graykode;1318;328;49;3;1106
+2505;EffectivePyTorch;vahidk/EffectivePyTorch;2020-04-02 07:21:57;;vahidk;1317;141;48;0;897
+2506;PINNs;maziarraissi/PINNs;2018-01-21 04:04:32;Python;maziarraissi;1314;642;88;36;1699
+2507;attention-transfer;szagoruyko/attention-transfer;2017-01-17 15:38:09;Jupyter Notebook;szagoruyko;1312;264;50;12;2068
+2508;awesome-ai-in-finance;georgezouq/awesome-ai-in-finance;2018-08-29 02:07:02;;georgezouq;1312;224;79;0;1479
+2509;computer-vision-in-action;Charmve/computer-vision-in-action;2021-04-29 03:08:48;Jupyter Notebook;Charmve;1312;182;23;50;505
+2510;Deep-learning-with-cats;AlexiaJM/Deep-learning-with-cats;2017-06-09 18:43:22;Python;AlexiaJM;1310;194;51;1;1924
+2511;dl-colab-notebooks;tugstugi/dl-colab-notebooks;2019-03-12 20:05:49;Jupyter Notebook;tugstugi;1308;398;65;10;1283
+2512;vearch;vearch/vearch;2019-05-13 02:37:31;Go;vearch;1308;235;72;110;1222
+2513;asteroid;asteroid-team/asteroid;2019-10-18 07:48:15;Python;asteroid-team;1306;306;50;37;1064
+2514;big_transfer;google-research/big_transfer;2020-05-11 21:34:13;Python;google-research;1305;155;46;35;857
+2515;DLTK;DLTK/DLTK;2017-05-02 15:40:36;Python;DLTK;1303;397;102;11;1963
+2516;NiftyNet;NifTK/NiftyNet;2017-08-30 07:55:43;Python;NifTK;1303;399;90;103;1843
+2517;2021_algorithm_intern_information;HarleysZhang/2021_algorithm_intern_information;2019-03-22 09:22:58;C++;HarleysZhang;1302;235;21;0;1274
+2518;stat212b;joanbruna/stat212b;2015-12-30 21:22:49;;joanbruna;1300;313;173;5;2451
+2519;OpenNMT-tf;OpenNMT/OpenNMT-tf;2017-11-02 10:53:22;Python;OpenNMT;1297;357;60;22;1779
+2520;Awesome-Deblurring;subeeshvasu/Awesome-Deblurring;2019-07-17 20:35:28;;subeeshvasu;1297;237;54;0;1156
+2521;torchio;fepegar/torchio;2019-11-26 09:10:09;Python;fepegar;1292;170;14;31;1025
+2522;MLBox;AxeldeRomblay/MLBox;2017-06-01 16:59:24;Python;AxeldeRomblay;1292;262;64;22;1933
+2523;dcgan-completion.tensorflow;bamos/dcgan-completion.tensorflow;2016-08-09 14:07:57;Python;bamos;1290;389;45;28;2229
+2524;AI-Chip;basicmi/AI-Chip;2017-08-09 04:10:54;PHP;basicmi;1290;239;254;19;1864
+2525;Awesome-TensorFlow-Chinese;fendouai/Awesome-TensorFlow-Chinese;2017-09-01 08:07:50;Python;fendouai;1287;328;92;0;1841
+2526;DeepOSM;trailbehind/DeepOSM;2016-02-14 22:30:33;Python;trailbehind;1285;192;88;13;2405
+2527;Rainbow;Kaixhin/Rainbow;2017-10-09 07:21:24;Python;Kaixhin;1284;247;42;8;1803
+2528;awesome-DeepLearning;PaddlePaddle/awesome-DeepLearning;2019-12-11 11:14:49;Jupyter Notebook;PaddlePaddle;1278;513;91;486;1010
+2529;Mocha.jl;pluskid/Mocha.jl;2014-10-25 00:31:21;Julia;pluskid;1278;267;114;36;2883
+2530;SimCLR;sthalles/SimCLR;2020-02-17 18:58:35;Jupyter Notebook;sthalles;1278;280;20;16;941
+2531;lectures-labs;m2dsupsdlclass/lectures-labs;2017-02-21 19:27:20;Jupyter Notebook;m2dsupsdlclass;1277;614;85;5;2032
+2532;Faster-High-Res-Neural-Inpainting;leehomyc/Faster-High-Res-Neural-Inpainting;2017-01-26 21:18:49;Lua;leehomyc;1274;216;47;12;2058
+2533;noreward-rl;pathak22/noreward-rl;2017-05-15 09:57:27;Python;pathak22;1271;294;61;31;1950
+2534;CaffeOnSpark;yahoo/CaffeOnSpark;2016-01-11 19:21:31;Jupyter Notebook;yahoo;1266;371;151;79;2439
+2535;Torch-TensorRT;NVIDIA/Torch-TensorRT;2020-03-11 17:17:43;C++;NVIDIA;1266;150;37;110;918
+2536;dlbook_notation;goodfeli/dlbook_notation;2018-03-01 16:41:49;TeX;goodfeli;1263;298;63;3;1660
+2537;3d-ken-burns;sniklaus/3d-ken-burns;2019-11-19 01:12:34;Python;sniklaus;1262;185;24;9;1032
+2538;Forge;hollance/Forge;2017-04-23 19:25:05;Swift;hollance;1257;180;64;2;1971
+2539;ogb;snap-stanford/ogb;2019-11-22 22:13:57;Python;snap-stanford;1255;277;38;3;1028
+2540;torchgan;torchgan/torchgan;2018-09-20 16:41:00;Python;torchgan;1255;155;30;19;1457
+2541;Det3D;poodarchu/Det3D;2019-08-19 12:43:56;Python;poodarchu;1252;269;42;17;1124
+2542;EdgeML;microsoft/EdgeML;2017-08-02 11:27:52;C++;microsoft;1251;335;88;20;1871
+2543;awesome-python-data-science;krzjoa/awesome-python-data-science;2017-12-21 10:17:53;;krzjoa;1249;224;51;1;1730
+2544;hyperlearn;danielhanchen/hyperlearn;2018-08-27 16:00:47;Jupyter Notebook;danielhanchen;1237;112;82;16;1481
+2545;Advanced-Deep-Learning-with-Keras;PacktPublishing/Advanced-Deep-Learning-with-Keras;2018-03-15 07:08:43;Python;PacktPublishing;1232;741;56;0;1646
+2546;FSL-Mate;tata1661/FSL-Mate;2020-03-28 14:37:40;Python;tata1661;1230;239;47;1;902
+2547;SSD;lufficc/SSD;2018-12-06 20:19:33;Python;lufficc;1224;348;24;29;1379
+2548;graph4nlp;graph4ai/graph4nlp;2020-07-16 03:28:48;Python;graph4ai;1222;152;27;13;792
+2549;gnes;gnes-ai/gnes;2019-07-08 08:31:09;Python;gnes-ai;1222;215;53;16;1166
+2550;neuralnetworks;ivan-vasilev/neuralnetworks;2013-09-02 15:32:37;Java;ivan-vasilev;1220;370;179;18;3301
+2551;open-reid;Cysu/open-reid;2017-02-20 03:30:29;Python;Cysu;1219;357;42;36;2034
+2552;DenseDepth;ialhashim/DenseDepth;2018-12-28 11:50:52;Jupyter Notebook;ialhashim;1219;308;33;2;1358
+2553;sahi;obss/sahi;2021-01-30 12:54:53;Python;obss;1219;159;28;12;594
+2554;AdaIN-style;xunhuang1995/AdaIN-style;2017-03-20 16:16:37;Lua;xunhuang1995;1210;179;41;15;2006
+2555;Bayesian-Neural-Networks;JavierAntoran/Bayesian-Neural-Networks;2019-03-11 10:21:08;Jupyter Notebook;JavierAntoran;1210;231;29;4;1285
+2556;deep-head-pose;natanielruiz/deep-head-pose;2017-11-29 05:16:12;Python;natanielruiz;1209;314;26;48;1752
+2557;merlin;CSTR-Edinburgh/merlin;2016-08-10 16:47:10;Python;CSTR-Edinburgh;1209;426;104;208;2228
+2558;pycm;sepandhaghighi/pycm;2018-01-22 19:46:54;Python;sepandhaghighi;1209;104;34;12;1697
+2559;AdvBox;advboxes/AdvBox;2018-08-08 08:55:41;Jupyter Notebook;advboxes;1208;249;57;13;1500
+2560;model-optimization;tensorflow/model-optimization;2018-10-31 20:34:28;Python;tensorflow;1207;271;126;156;1415
+2561;deep_architecture_genealogy;hunkim/deep_architecture_genealogy;2017-11-04 22:04:20;Python;hunkim;1206;205;114;6;1776
+2562;pytorch-toolbelt;BloodAxe/pytorch-toolbelt;2019-03-15 16:02:49;Python;BloodAxe;1204;91;25;5;1281
+2563;dl-visuals;dvgodoy/dl-visuals;2021-05-20 11:20:16;;dvgodoy;1198;92;29;1;484
+2564;scikit-neuralnetwork;aigamedev/scikit-neuralnetwork;2015-03-30 18:50:27;Python;aigamedev;1197;230;75;51;2726
+2565;nlp_overview;omarsar/nlp_overview;2018-10-20 07:37:10;CSS;omarsar;1196;185;235;5;1427
+2566;Mish;digantamisra98/Mish;2019-05-10 14:05:18;Jupyter Notebook;digantamisra98;1196;125;27;1;1225
+2567;Personae;Ceruleanacg/Personae;2018-03-10 11:22:00;Python;Ceruleanacg;1195;339;125;8;1651
+2568;deep-text-corrector;atpaino/deep-text-corrector;2016-11-07 04:16:38;Python;atpaino;1194;271;54;27;2139
+2569;deep-review;greenelab/deep-review;2016-08-02 17:41:56;HTML;greenelab;1194;270;132;423;2235
+2570;byol-pytorch;lucidrains/byol-pytorch;2020-06-16 18:38:32;Python;lucidrains;1194;169;24;30;821
+2571;OpenPrompt;thunlp/OpenPrompt;2021-09-30 09:38:45;Python;thunlp;1193;124;19;23;351
+2572;Research;PaddlePaddle/Research;2020-02-13 09:49:34;Python;PaddlePaddle;1192;674;39;98;946
+2573;GDL_code;davidADSP/GDL_code;2019-02-22 08:34:18;Jupyter Notebook;davidADSP;1191;616;46;62;1302
+2574;Deep-Learning;Jack-Cherish/Deep-Learning;2017-12-16 03:12:19;Python;Jack-Cherish;1190;730;25;2;1735
+2575;SoTA-Point-Cloud;The-Learning-And-Vision-Atelier-LAVA/SoTA-Point-Cloud;2019-12-25 17:08:03;;The-Learning-And-Vision-Atelier-LAVA;1189;156;65;4;995
+2576;Face-Mask-Detection;chandrikadeb7/Face-Mask-Detection;2020-04-21 11:04:56;Jupyter Notebook;chandrikadeb7;1188;683;31;14;878
+2577;reinforcejs;karpathy/reinforcejs;2015-04-19 02:35:59;HTML;karpathy;1186;323;71;22;2707
+2578;MEDIUM_NoteBook;cerlymarco/MEDIUM_NoteBook;2019-04-22 20:45:20;Jupyter Notebook;cerlymarco;1186;689;76;0;1242
+2579;cnn_graph;mdeff/cnn_graph;2016-09-13 18:59:32;Jupyter Notebook;mdeff;1185;389;44;20;2193
+2580;aws-machine-learning-university-accelerated-cv;aws-samples/aws-machine-learning-university-accelerated-cv;2020-07-29 22:17:04;Jupyter Notebook;aws-samples;1185;272;108;0;778
+2581;AdvancedEAST;huoyijie/AdvancedEAST;2018-05-14 01:37:52;Python;huoyijie;1183;382;44;80;1586
+2582;pennylane;PennyLaneAI/pennylane;2018-04-17 16:45:42;Python;PennyLaneAI;1177;352;55;172;1613
+2583;hebel;hannes-brt/hebel;2013-11-20 07:01:18;Python;hannes-brt;1172;130;82;6;3222
+2584;AutoCrawler;YoongiKim/AutoCrawler;2018-11-21 16:01:14;Python;YoongiKim;1171;335;44;9;1395
+2585;fun-rec;datawhalechina/fun-rec;2020-08-09 04:37:34;Python;datawhalechina;1170;374;20;1;768
+2586;tensorflow-deepq;siemanko/tensorflow-deepq;2015-11-13 22:18:48;Jupyter Notebook;siemanko;1167;298;90;6;2498
+2587;livelossplot;stared/livelossplot;2018-03-10 17:51:43;Python;stared;1163;141;26;4;1650
+2588;Deep-Tutorials-for-PyTorch;sgrvinod/Deep-Tutorials-for-PyTorch;2018-07-11 05:43:46;;sgrvinod;1154;196;82;1;1528
+2589;traingenerator;jrieke/traingenerator;2020-12-03 16:47:16;Python;jrieke;1153;165;37;13;652
+2590;Repo-2017;RubensZimbres/Repo-2017;2016-12-17 13:21:20;Python;RubensZimbres;1152;692;126;1;2099
+2591;PixelAnnotationTool;abreheret/PixelAnnotationTool;2017-10-03 16:52:13;C++;abreheret;1150;279;42;23;1809
+2592;fastai_deeplearn_part1;reshamas/fastai_deeplearn_part1;2017-11-05 16:10:16;HTML;reshamas;1138;321;73;6;1776
+2593;Applying_EANNs;ArztSamuel/Applying_EANNs;2017-04-09 10:24:29;ASP;ArztSamuel;1138;304;107;0;1986
+2594;Practical_DL;yandexdataschool/Practical_DL;2016-09-15 10:43:08;Jupyter Notebook;yandexdataschool;1136;531;67;10;2192
+2595;awesome-architecture-search;markdtw/awesome-architecture-search;2017-11-27 13:52:07;;markdtw;1135;196;70;2;1754
+2596;one-pixel-attack-keras;Hyperparticle/one-pixel-attack-keras;2018-02-17 07:26:48;Jupyter Notebook;Hyperparticle;1134;188;30;6;1672
+2597;lightweight-gan;lucidrains/lightweight-gan;2020-11-11 17:31:33;Python;lucidrains;1133;162;30;52;673
+2598;QRec;Coder-Yu/QRec;2016-09-24 15:10:35;Python;Coder-Yu;1132;345;69;0;2183
+2599;awesome-AIOps;linjinjin123/awesome-AIOps;2018-07-27 07:04:52;;linjinjin123;1128;318;94;6;1512
+2600;pyslam;luigifreda/pyslam;2019-04-06 16:32:09;Python;luigifreda;1121;209;39;11;1259
+2601;text_gcn;yao8839836/text_gcn;2018-09-10 05:29:32;Python;yao8839836;1118;384;24;95;1467
+2602;CapsGNN;benedekrozemberczki/CapsGNN;2019-01-29 18:57:25;Python;benedekrozemberczki;1118;189;29;4;1325
+2603;Image-OutPainting;bendangnuksung/Image-OutPainting;2018-07-20 17:19:25;Jupyter Notebook;bendangnuksung;1117;233;44;10;1518
+2604;NLP-Knowledge-Graph;lihanghang/NLP-Knowledge-Graph;2019-01-29 12:15:57;;lihanghang;1117;306;60;0;1326
+2605;zero-to-mastery-ml;mrdbourke/zero-to-mastery-ml;2019-09-23 04:56:51;Jupyter Notebook;mrdbourke;1111;1864;92;1;1089
+2606;deep-q-learning;keon/deep-q-learning;2017-02-06 02:57:42;Python;keon;1110;432;63;16;2048
+2607;ssd_keras;rykov8/ssd_keras;2016-11-04 21:22:49;Jupyter Notebook;rykov8;1110;562;40;104;2141
+2608;mmclassification;open-mmlab/mmclassification;2020-07-09 16:25:04;Python;open-mmlab;1105;397;25;66;799
+2609;yousan.ai;longpeng2008/yousan.ai;2019-03-24 02:35:00;Python;longpeng2008;1104;454;53;12;1272
+2610;CV-pretrained-model;balavenkatesh3322/CV-pretrained-model;2020-07-14 06:27:20;;balavenkatesh3322;1104;180;34;0;794
+2611;Physics-Based-Deep-Learning;thunil/Physics-Based-Deep-Learning;2018-09-15 20:53:18;;thunil;1101;213;99;3;1461
+2612;ScanNet;ScanNet/ScanNet;2017-02-11 18:41:30;C;ScanNet;1101;277;44;64;2042
+2613;spago;nlpodyssey/spago;2020-01-05 20:39:29;Go;nlpodyssey;1098;58;31;13;984
+2614;medicaldetectiontoolkit;MIC-DKFZ/medicaldetectiontoolkit;2018-10-12 12:34:57;Python;MIC-DKFZ;1094;286;52;40;1435
+2615;deepchecks;deepchecks/deepchecks;2021-10-11 14:48:38;Python;deepchecks;1092;70;9;98;340
+2616;TensorFlow-From-Zero-To-One;amusi/TensorFlow-From-Zero-To-One;2018-03-29 15:09:03;Jupyter Notebook;amusi;1089;333;52;0;1632
+2617;SickZil-Machine;KUR-creative/SickZil-Machine;2019-02-17 08:57:05;Python;KUR-creative;1087;143;37;70;1307
+2618;pororo;kakaobrain/pororo;2021-01-28 05:37:42;Python;kakaobrain;1086;179;39;29;596
+2619;five-video-classification-methods;harvitronix/five-video-classification-methods;2017-03-15 06:17:59;Python;harvitronix;1085;467;56;54;2011
+2620;yolo-9000;philipperemy/yolo-9000;2017-04-15 03:24:23;;philipperemy;1082;309;68;12;1980
+2621;nndl;zhanggyb/nndl;2016-01-20 08:40:07;TeX;zhanggyb;1081;321;85;25;2431
+2622;tensorflow_object_counting_api;ahmetozlu/tensorflow_object_counting_api;2018-06-28 19:53:18;Python;ahmetozlu;1079;492;52;20;1540
+2623;STT;coqui-ai/STT;2021-03-04 04:54:42;C++;coqui-ai;1078;98;38;72;561
+2624;pose-tensorflow;eldar/pose-tensorflow;2017-03-09 19:52:15;C++;eldar;1078;383;56;64;2016
+2625;DeepMosaics;HypoX64/DeepMosaics;2019-03-05 17:25:47;Python;HypoX64;1077;285;37;66;1290
+2626;grad-cam;ramprs/grad-cam;2016-05-27 19:37:36;Lua;ramprs;1076;188;;;2302
+2627;landro;leandro;0002-12-03 15:41:00;Java;Landrox;1000;150;;;737712
+2628;Test 0001;Test_001;2022-07-19 01:00:00;Python;adriannborella;5;5;5;5;59

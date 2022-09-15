@@ -22,7 +22,7 @@ provincia={id_provincia}&campos=id,nombre&max=1000"
         Municipio.objects.all().delete()
         for provincia in Provincia.objects.all():
             actual += 1
-            self.stdout.write(f"Sincronizanco {actual} de {total}")
+            self.stdout.write(f"Sincronizando {actual} de {total}")
             municipios = self.get_municipios(provincia.id_sincronizacion)
 
             for record in municipios:
