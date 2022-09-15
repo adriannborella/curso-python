@@ -14,4 +14,3 @@ class ProvinciaAdmin(admin.ModelAdmin):
 class MunicipioAdmin(admin.ModelAdmin):
     search_fields = ['name']
     list_display = ['id', 'name', 'id_sincronizacion']
-

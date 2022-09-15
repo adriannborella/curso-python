@@ -6,3 +6,4 @@ from apps.repositorios.models import RepositorioGithub
 class RepositorioGithubAdmin(admin.ModelAdmin):
     search_fields = ['name']
     list_display = ['id', 'repo_name', 'created', 'language', 'days_alive']
+    list_filter = ["stars", "forks", "days_alive"]
